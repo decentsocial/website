@@ -23,7 +23,7 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
 </code>
       </div>
       <div class="col-lg-12 mx-auto mt-5">
-<p class="text-monospace text-light bg-dark p-4">
+<p class="text-monospace text-light bg-dark p-4 overflow-auto">
 @lexfridman - 2020-09-27T22:53:52.000Z - https://nitter.decent.social/lexfridman/status/1310351981383421953#m
 <br>
 <br>
