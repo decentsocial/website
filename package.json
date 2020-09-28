@@ -4,7 +4,8 @@
     "version": "0.0.0",
     "scripts": {
         "start": "gulp watch",
-        "build": "gulp build"
+        "build": "gulp build",
+        "build:site": "devblog"
     },
     "description": "Decent is an ad-free, privacy-first Twitter reading experience",
     "keywords": [],
@@ -24,6 +25,7 @@
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
+        "devblog": "^2.26.2",
         "gulp": "4.0.2",
         "gulp-autoprefixer": "7.0.1",
         "gulp-clean-css": "4.3.0",
