@@ -11,7 +11,7 @@ layout: layout.njk
         <h1 class="display-3">decent.social cli</h1>
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
-      <div class="col-lg-6 mx-auto mt-5">
+      <div class="col-lg-8 mx-auto mt-5">
         <code class="pre-scrollable code">
 npm i -g decent-social-cli
 
