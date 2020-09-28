@@ -11,31 +11,55 @@ layout: layout.njk
         <h1 class="display-3">decent.social cli</h1>
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
-      <div class="col-lg-12 mx-auto mt-5">
-        <code class="code">
-mkdir -p ~/.decent/
-printf "elonmusk\nlexfridman" >> ~/.decent/usernames
-<br>
+      <div class="col-lg-6 mx-auto mt-5">
+        <code class="pre-scrollable code">
 npm i -g decent-social-cli
+
+decent --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
+
+or
+
+npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
+</code>
+      </div>
+      <div class="col-lg-12 mx-auto mt-5">
+<p class="text-monospace text-light bg-dark p-4">
+@lexfridman - 2020-09-27T22:53:52.000Z - https://nitter.decent.social/lexfridman/status/1310351981383421953#m
 <br>
-decent --help
+<br>
+Confidence is strength. Arrogance is weakness.
 <br>
 <br>
-# or
+---
 <br>
 <br>
-npx decent-social-cli --help
-        </code>
+@MKBHD - 2020-09-28T14:51:15.000Z - https://nitter.decent.social/MKBHD/status/1310592916520398849#m
+<br>
+<br>
+Drink some water today.
+<br>
+<br>
+---
+<br>
+<br>
+@ProfFeynman - 2020-09-27T16:36:41.000Z - https://nitter.decent.social/ProfFeynman/status/1310257062987706373#m
+<br>
+<br>
+Understand, don't memorize. 🧠
+</p>
       </div>
     </div>
     <br>
     <br>
     <div class="row mt-5">
       <div class="col-lg-7 mx-auto mb-5 text-center">
+        <h1>Coming soon</h1>
         {% include 'tweets.html' %}
       </div>
     </div>
   </div>
 </section>
+
+{% include 'cta.html' %}
 
 {% endblock %}
