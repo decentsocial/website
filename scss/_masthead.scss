@@ -1,0 +1,39 @@
+header.masthead {
+  position: relative;
+  // padding-top: 8rem;
+  // padding-bottom: 8rem;
+  .overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+  }
+  h1 {
+    font-size: 3.5rem;
+  }
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+  @media (max-width: 1024px) {
+    h1 {
+      font-size: 2.8rem;
+    }
+  }
+}
+
+.big {
+  font-size: 1.25rem;
+}
+
+.inverted {
+  background-color: #6262621f !important;
+  color: inherit !important;
+}
+.inverted-light {
+  background-color: #6262621f !important;
+  color: inherit !important;
+}
