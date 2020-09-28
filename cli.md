@@ -20,7 +20,15 @@ decent --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
 or
 
 npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
-</code>
+        </code>
+      </div>
+      <div class="col-lg-8 mx-auto mt-5">
+        <p>
+          Create a file called `~/.decent/usernames` to avoid specifying `--username` over and over again.
+        </p>
+        <p>
+          Tada! You created your own private Twitter timeline!
+        </p>
       </div>
       <div class="col-lg-12 mx-auto mt-5">
 <p class="text-monospace text-light bg-dark p-4 overflow-auto">
