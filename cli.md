@@ -29,6 +29,7 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         <p>
           Tada! You created your own private Twitter timeline!
         </p>
+        <p>The source code is on <a target="_blank href="https://github.com/decentsocial/cli">GitHub</a></p>
       </div>
       <div class="col-lg-12 mx-auto mt-5">
 <p class="text-monospace text-light bg-dark p-4 overflow-auto">
