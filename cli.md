@@ -7,11 +7,11 @@ layout: layout.njk
 <section class=" text-left">
   <div class="container">
     <div class="row mt-5 mb-5">
-      <div class="col-lg-12 mx-auto">
+      <div class="col-lg-9 mx-auto">
         <h1 class="display-3">decent.social cli</h1>
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
-      <div class="col-lg-8 mx-auto mt-5">
+      <div class="col-lg-9 mx-auto mt-5">
         <code class="pre-scrollable code">
 npm i -g decent-social-cli
 
@@ -22,7 +22,7 @@ or
 npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         </code>
       </div>
-      <div class="col-lg-8 mx-auto mt-5">
+      <div class="col-lg-9 mx-auto mt-5">
         <p>
           Create a file called `~/.decent/usernames` to avoid specifying `--username` over and over again.
         </p>
@@ -31,7 +31,7 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         </p>
         <p>The source code is on <a target="_blank" href="https://github.com/decentsocial/cli">GitHub</a></p>
       </div>
-      <div class="col-lg-12 mx-auto mt-5">
+      <div class="col-lg-11 mx-auto mt-5">
 <p class="text-monospace text-light bg-dark p-4 overflow-auto">
 @lexfridman - 2020-09-27T22:53:52.000Z - https://nitter.decent.social/lexfridman/status/1310351981383421953#m
 <br>
