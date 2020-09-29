@@ -1,4 +1,5 @@
 module.exports = {
+  ignoredFiles: ['gulpfile.js', '._includes', 'scss', 'LICENSE', 'README.md'],
   collections: {
     items: [{
       name: 'item 1'
