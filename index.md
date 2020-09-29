@@ -150,7 +150,7 @@ layout: layout.njk
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col-lg-12 mx-auto text-center">
+      <div class="col-lg-6 mx-auto text-center">
         <h2 class="title">Future plans</h2>
         <ul class="list-group list-group-flush mt-3 py-3">
           <li class="list-group-item py-3">
