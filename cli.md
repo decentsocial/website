@@ -32,30 +32,7 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         <p>The source code is on <a target="_blank" href="https://github.com/decentsocial/cli">GitHub</a></p>
       </div>
       <div class="col-lg-11 mx-auto mt-5">
-<p class="text-monospace text-light bg-dark p-4 overflow-auto">
-@lexfridman - 2020-09-27T22:53:52.000Z - https://nitter.decent.social/lexfridman/status/1310351981383421953#m
-<br>
-<br>
-Confidence is strength. Arrogance is weakness.
-<br>
-<br>
----
-<br>
-<br>
-@MKBHD - 2020-09-28T14:51:15.000Z - https://nitter.decent.social/MKBHD/status/1310592916520398849#m
-<br>
-<br>
-Drink some water today.
-<br>
-<br>
----
-<br>
-<br>
-@ProfFeynman - 2020-09-27T16:36:41.000Z - https://nitter.decent.social/ProfFeynman/status/1310257062987706373#m
-<br>
-<br>
-Understand, don't memorize. 🧠
-</p>
+        <img class="img-fluid" src="/img/cli.carbon.png" />
       </div>
     </div>
     <br>
