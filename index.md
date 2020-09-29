@@ -35,6 +35,7 @@ layout: layout.njk
           </div>
         </div>
         <div class="col-lg-4 mt-5 mb-2 text-center d-sm-none d-lg-block">
+          <h2 class="title">Your private timeline</h2>
           {% include 'tweets.html' %}
         </div>
         <div class="col-lg-1"></div>
@@ -139,5 +140,16 @@ layout: layout.njk
 </section>
 
 {% include 'cta.html' %}
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h2 class="title">Your private timeline</h2>
+        {% include 'tweets.html' %}
+      </div>
+    </div>
+  </div>
+</section>
 
 {% endblock %}
