@@ -25,6 +25,8 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
       <div class="col-lg-9 mx-auto mt-5">
         <p>
           Create a file called `~/.decent/usernames` to avoid specifying `--username` over and over again.
+          <br>
+          <a target="_blank" href="https://github.com/decentsocial/cli/blob/master/usernames.example">Here you can find an example</a>
         </p>
         <p>
           Tada! You created your own private Twitter timeline!
