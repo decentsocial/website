@@ -113,43 +113,47 @@ layout: layout.njk
         </div>
       </div>
     </div>
-    <br>
-    <br>      
-    <h1 class="mt-5 mb-5">What people are saying</h1>
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-          <h5>Margaret</h5>
-          <p class="font-weight-light mb-0">"Finally a Privacy-friendly alternative for reading my messy Twitter timeline!"</p>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-          <h5>Fred</h5>
-          <p class="font-weight-light mb-0">"Decent is dope. It makes me want to read Twitter again, knowing that my data is not being sold to others"</p>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-          <h5>Sarah</h5>
-          <p class="font-weight-light mb-0">"I can say that I don't feel overwhelmed anymore and enjoy Twitter again thanks to Decent!"</p>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
 {% include 'cta.html' %}
 
-<section class="mt-5">
-  <div class="container">
-    <div class="row mt-5">
-      <div class="col-lg-6 mx-auto">
-        <h2 class="title text-center">Your private timeline</h2>
-        {% include 'tweets.html' %}
+<section class="container mt-5">
+  <br>
+  <br>
+
+  <h1 class="mt-5 mb-5">What people are saying</h1>
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+        <h5>Margaret</h5>
+        <p class="font-weight-light mb-0">"Finally a Privacy-friendly alternative for reading my messy Twitter timeline!"</p>
       </div>
     </div>
+    <div class="col-lg-4">
+      <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+        <h5>Fred</h5>
+        <p class="font-weight-light mb-0">"Decent is dope. It makes me want to read Twitter again, knowing that my data is not being sold to others"</p>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+        <h5>Sarah</h5>
+        <p class="font-weight-light mb-0">"I can say that I don't feel overwhelmed anymore and enjoy Twitter again thanks to Decent!"</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="mt-5">
+  <br>
+  <br>
+  <div class="container">
     <div class="row mt-5">
+      <!-- <div class="col-lg-6 mx-auto">
+        <h2 class="title text-center">Your private timeline</h2>
+        {% include 'tweets.html' %}
+      </div> -->
       <div class="col-lg-6 mx-auto text-center">
         <h2 class="title">Future plans</h2>
         <ul class="list-group list-group-flush mt-3 py-3">
