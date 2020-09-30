@@ -126,6 +126,43 @@ layout: layout.njk
   </div>
 </section>
 
+<section class="showcase">
+  <div class="container-fluid p-0">
+    <div class="row no-gutters">
+      <div class="col-lg-6 my-auto1 showcase-text">
+        <h2>Try the CLI for free</h2>
+        <p class="lead mb-0">
+          As all code of Decent, the CLI is <a href="https://github.com/decentsocial" target="_blank">open-source on GitHub</a>
+          <br>
+          Run via <code style="display: inline-block">npx decent-social-cli</code>
+          <br>or install it globally <code style="display: inline-block">npm i -g decent-social-cli</code>
+          <br>
+          <br>
+          Run <code style="display: inline-block">decent init</code> to initialize <code style="display: inline-block">~/.decent/usernames</code> and start browsing your private Twitter timeline
+        </p>
+      </div>
+      <div class="col-lg-6 text-white showcase-img" style="background-image: url('/img/cli.carbon.png'); background-size: contain; background-repeat: no-repeat; background-position: center"></div>
+    </div>
+    <!--
+    <div class="row no-gutters">
+      <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/bg-showcase-2.jpg');"></div>
+      <div class="col-lg-6 my-auto showcase-text">
+        <h2>Updated For Bootstrap 4</h2>
+        <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 4 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 4!</p>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/bg-showcase-3.jpg');"></div>
+      <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+        <h2>Easy to Use &amp; Customize</h2>
+        <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
+      </div>
+    </div>
+    -->
+  </div>
+</section>
+
+
 <section id="faq" class=" mt-5 py-5">
   <div class="container">
     <div class="row mt-5 mb-5">
