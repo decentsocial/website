@@ -126,6 +126,44 @@ layout: layout.njk
   </div>
 </section>
 
+<section id="faq" class=" mt-5 py-5">
+  <div class="container">
+    <div class="row mt-5 mb-5">
+      <div class="col-lg-8 mx-auto">
+        <h1 class="title">Frequently asked questions</h1>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item py-3">
+            <b>What's wrong with Twitter?</b>
+            <br>
+            Twitter's business model is based on <b>advertisement and targeting</b>, by collecting your <b>personal information, behaviour and preferences</b>.
+            <br>
+            This information is used to present you the timeline mixed with <b>promoted tweets and advertisement</b>.
+            <br>
+            That's how Twitter can be "free", but you shouldn't fall for it.
+          </li>
+          <li class="list-group-item py-3">
+            <b>Why is Decent not free like Twitter?</b>
+            <br>
+            You pay for reading your Decent timeline knowing you're not being tracked, profiled and presented with "tweets you might like".
+            <br>
+            With Decent <b>you are using a service</b>, <b>not being used by it</b>.
+            <br>
+            No information at all is collected and you're not being targeted or manipulated.
+            <br>
+            <b>Decent doesn't show ads or sells your information, that's why we need to ask a small fee.</b>
+          </li>
+          <li class="list-group-item py-3">
+            <b>I would like self-host Decent, can I?</b>
+            <br>
+            Yes! Decent's idea is to be fully transparent and open-source, thus you can <a href="https://github.com/decentsocial" target="_blank">check out the code on GitHub</a> and decide to host it on your own.
+            <br>
+            You'll have to install, host and manage Decent yourself on your own server or PC.
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="container mt-5">
   <br>
@@ -149,6 +187,17 @@ layout: layout.njk
       <div class="testimonial-item mx-auto mb-5 mb-lg-0">
         <h5>Sarah</h5>
         <p class="font-weight-light mb-0">"I can say that I don't feel overwhelmed anymore and enjoy Twitter again thanks to Decent!"</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="cta" class="text-center mt-5 py-5">
+  <div class="container">
+    <div class="row mt-5 mb-5">
+      <div class="col-lg-8 mx-auto">
+        {% include 'cta.html' %}
       </div>
     </div>
   </div>
