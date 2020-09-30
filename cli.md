@@ -33,6 +33,9 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         </p>
         <p>The source code is on <a target="_blank" href="https://github.com/decentsocial/cli">GitHub</a></p>
       </div>
+      <div class="col-lg-12 mx-auto text-center">
+        <video autoplay loop src="/img/decent.social.cli.mp4"></video>
+      </div>
       <div class="col-lg-11 mx-auto mt-5">
         <img class="img-fluid" src="/img/cli.carbon.png" />
       </div>

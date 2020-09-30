@@ -129,7 +129,7 @@ layout: layout.njk
 <section class="showcase">
   <div class="container-fluid p-0">
     <div class="row no-gutters">
-      <div class="col-lg-6 my-auto1 showcase-text">
+      <div class="col-lg-6 mx-auto my-auto1 showcase-text">
         <h2>Try the CLI for free</h2>
         <p class="lead mb-0">
           As all code of Decent, the CLI is <a href="https://github.com/decentsocial" target="_blank">open-source on GitHub</a>
@@ -141,7 +141,10 @@ layout: layout.njk
           Run <code style="display: inline-block">decent init</code> to initialize <code style="display: inline-block">~/.decent/usernames</code> and start browsing your private Twitter timeline
         </p>
       </div>
-      <div class="col-lg-6 text-white showcase-img" style="background-image: url('/img/cli.carbon.png'); background-size: contain; background-repeat: no-repeat; background-position: center"></div>
+      <!-- <div class="col-lg-6 text-white showcase-img" style="background-image: url('/img/cli.carbon.png'); background-size: contain; background-repeat: no-repeat; background-position: center"></div> -->
+      <div class="col-lg-12 mx-auto text-center">
+        <video autoplay loop src="/img/decent.social.cli.mp4"></video>
+      </div>
     </div>
     <!--
     <div class="row no-gutters">
