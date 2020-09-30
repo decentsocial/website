@@ -30,7 +30,7 @@ layout: layout.njk
               <b>Ad-free & privacy-first</b>
             </p>
             <p class="lead mt-5">
-              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Join now</a>
+              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get updates</a>
             </p>
           </div>
         </div>
