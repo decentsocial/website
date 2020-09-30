@@ -116,7 +116,16 @@ layout: layout.njk
   </div>
 </section>
 
-{% include 'cta.html' %}
+<section id="cta" class="text-center mt-5 py-5">
+  <div class="container">
+    <div class="row mt-5 mb-5">
+      <div class="col-lg-8 mx-auto">
+        {% include 'cta.html' %}
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <section class="container mt-5">
   <br>

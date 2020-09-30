@@ -35,17 +35,28 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         <img class="img-fluid" src="/img/cli.carbon.png" />
       </div>
     </div>
-    <br>
-    <br>
-    <div class="row mt-5">
-      <div class="col-lg-7 mx-auto mb-5 text-center">
-        <h1>Coming soon</h1>
-        {% include 'tweets.html' %}
+  </div>
+</section>
+
+<section id="cta" class="text-center mt-5 py-5">
+  <div class="container">
+    <div class="row mt-5 mb-5">
+      <div class="col-lg-8 mx-auto">
+        {% include 'cta.html' %}
       </div>
     </div>
   </div>
 </section>
 
-{% include 'cta.html' %}
+<section class="text-center mt-5 py-5">
+  <div class="container">
+    <div class="row mt-5">
+    <div class="col-lg-7 mx-auto mb-5 text-center">
+      <h1>Coming soon</h1>
+      {% include 'tweets.html' %}
+    </div>
+  </div>
+</section>
+
 
 {% endblock %}
