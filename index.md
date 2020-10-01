@@ -123,11 +123,6 @@ layout: layout.njk
   {% include 'faq.html' %}
 </section>
 
-<section id="cta" class="text-center mt-5 py-5">
-  {% include 'cta.html' %}
-</section>
-
-
 <section class="container mt-5">
   {% include 'testimonials.html' %}
 </section>
