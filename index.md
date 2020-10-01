@@ -27,7 +27,7 @@ layout: layout.njk
               Enjoy a <b>decent Twitter reading experience</b>
             </p>
             <p class="lead mt-5">
-              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get updates</a>
+              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get access</a>
             </p>
           </div>
         </div>
