@@ -18,7 +18,7 @@ layout: layout.njk
               <br>
             </div>
             <h2>Too many ads, suggestions, promoted tweets?</h2>
-            <h4 class="mt-4 mb-4">Well, that ends now.</h4>
+            <h4 class="mt-4 mb-4">Stop Twitter from profiling you</h4>
             <p class="big">
               It's <b>your Twitter timeline</b> after all
               <br>
@@ -111,10 +111,13 @@ layout: layout.njk
   </div>
 </section>
 
+<section class="showcase">
+  {% include 'showcase.html' %}
+</section>
+
 <section id="cta" class="text-center mt-5 py-5">
   {% include 'cta.html' %}
 </section>
-
 
 <section id="faq" class=" mt-5 py-5">
   {% include 'faq.html' %}
@@ -123,12 +126,6 @@ layout: layout.njk
 <section id="cta" class="text-center mt-5 py-5">
   {% include 'cta.html' %}
 </section>
-
-<!--
-<section class="showcase">
-  {% include 'showcase.html' %}
-</section>
--->
 
 
 <section class="container mt-5">
