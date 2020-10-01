@@ -17,7 +17,7 @@ layout: layout.njk
               <br>
               <br>
             </div>
-            <h4>Experiencing a <b style="display: inline-block;">cluttered Twitter timeline?</b></h4>
+            <h3>Experiencing a <b style="display: inline-block;">cluttered Twitter timeline?</b></h3>
             <h5>"Too many ads, suggestions, promoted tweets..."</h5>
             <h4 class="mt-4 mb-4">Well, that ends now.</h4>
             <p class="big">
