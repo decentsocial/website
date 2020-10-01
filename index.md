@@ -17,8 +17,7 @@ layout: layout.njk
               <br>
               <br>
             </div>
-            <h3>Experiencing a <b style="display: inline-block;">cluttered Twitter timeline?</b></h3>
-            <h5>"Too many ads, suggestions, promoted tweets..."</h5>
+            <h2>Too many ads, suggestions, promoted tweets?</h2>
             <h4 class="mt-4 mb-4">Well, that ends now.</h4>
             <p class="big">
               It's <b>your Twitter timeline</b> after all
@@ -43,7 +42,7 @@ layout: layout.njk
 <section id="features" class="features-icons mb-5">
   <div class="container">
     <img class="img-fluid mt-5 mb-3" src="/img/clouds.svg" alt="" style="width: 25em;">
-    <h1 class="title">Why Decent?</h1>
+    <h1 class="title">Benefits of Decent?</h1>
     <div class="row mt-5">
       <div class="col-lg-4 col-md-6 py-3">
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
