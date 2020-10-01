@@ -125,9 +125,11 @@ layout: layout.njk
   {% include 'cta.html' %}
 </section>
 
+<!--
 <section class="showcase">
   {% include 'showcase.html' %}
 </section>
+-->
 
 
 <section class="container mt-5">
