@@ -25,9 +25,6 @@ layout: layout.njk
               <br>
               <br>
               Enjoy a <b>decent Twitter reading experience</b>
-              <br>
-              <br>
-              <b>Ad-free & privacy-first</b>
             </p>
             <p class="lead mt-5">
               <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get updates</a>
@@ -38,7 +35,6 @@ layout: layout.njk
           <h2 class="title">Your private timeline</h2>
           {% include 'tweets.html' %}
         </div>
-        <!-- <div class="col-lg-1"></div> -->
       </div>
     </div>
   </div>
@@ -53,13 +49,13 @@ layout: layout.njk
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
           <h3>Ethical</h3>
           <p class="lead mb-0">
-            <b class="inverted-light">No tracking</b>
+            <b class="">No tracking</b>
             <br>
-            <b class="inverted-light">No link-shortening</b>
+            <b class="">No link-shortening</b>
             <br>
-            <b class="inverted-light">No ads</b>
+            <b class="">No ads</b>
             <br>
-            <b class="inverted-light">No promoted tweets</b>
+            <b class="">No promoted tweets</b>
           </p>
         </div>
       </div>
@@ -69,9 +65,9 @@ layout: layout.njk
           <p class="lead mb-0">
             Using <b><a target="_blank" href="https://nitter.decent.social/">Nitter</a></b> behind the scenes
             <br>
-            <b class="inverted-light">No Twitter account required</b>
+            <b class="">No Twitter account required</b>
             <br>
-            <b class="inverted-light">No collection of personal data</b>
+            <b class="">No collection of personal data</b>
           </p>
         </div>
       </div>
@@ -79,9 +75,9 @@ layout: layout.njk
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
           <h3>Open-Source</h3>
           <p class="lead mb-0">
-            Yes! Decent is <b class="inverted-light">open-source on GitHub</b>
+            Yes! Decent is <b class="">open-source on GitHub</b>
             <br>
-            You can opt for <b class="inverted-light">self-hosting</b> Decent
+            You can opt for <b class="">self-hosting</b> Decent
           </p>
         </div>
       </div>
@@ -89,9 +85,9 @@ layout: layout.njk
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
           <h3>Lightweight & clean</h3>
           <p class="lead mb-0">
-            Fast and <b class="inverted-light">no BS</b> Twitter experience
+            Fast and <b class="">no BS</b> Twitter experience
             <br>
-            <b class="inverted-light">10x smaller script</b>
+            <b class="">10x smaller script</b>
           </p>
         </div>
       </div>
@@ -100,9 +96,9 @@ layout: layout.njk
           <h3>Pleasant Twitter experience</h3>
           <p class="lead mb-0">
             <p class="lead mb-0">
-              Read Twitter <b class="inverted-light">without the distrations</b>
+              Read Twitter <b class="">without the distrations</b>
               <br>
-              Get back control over <b class="inverted-light">your Timeline</b>
+              Get back control over <b class="">your Timeline</b>
             </p>
           </p>
         </div>
