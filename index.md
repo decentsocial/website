@@ -42,7 +42,7 @@ layout: layout.njk
 <section id="features" class="features-icons mb-5">
   <div class="container">
     <img class="img-fluid mt-5 mb-3" src="/img/clouds.svg" alt="" style="width: 25em;">
-    <h1 class="title">Benefits of Decent?</h1>
+    <h1 class="title">Benefits of Decent</h1>
     <div class="row mt-5">
       <div class="col-lg-4 col-md-6 py-3">
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
