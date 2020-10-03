@@ -31,7 +31,7 @@ Read it yourself, below you can find my notes about it.
 
 - 2006: access to bank records from SWIFT (Society for Worldwide Interbank Financial Transactions) [^7]
 
--> outrage by many, ignorance by many other making the point “I’ve got nothing to hide” [^8]
+- this brought to outrage by many, ignorance by many other making the point “I’ve got nothing to hide” [^8]
 
 - "if an individual acts in lawful ways, there's nothing to worry about" another point made [^9]
 
