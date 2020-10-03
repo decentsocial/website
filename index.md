@@ -69,6 +69,11 @@ layout: layout.njk
       </div>
       <div class="col-lg-4 col-md-6 py-3">
         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+          <img class="d-sm-none d-lg-block img-fluid mt-5 mb-3" src="/img/air_support.svg" alt="">
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 py-3">
+        <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
           <h3>Open-Source</h3>
           <p class="lead mb-0">
             Yes! Decent is <b class="">open-source on GitHub</b>
@@ -97,11 +102,6 @@ layout: layout.njk
               Get back control over <b class="">your Timeline</b>
             </p>
           </p>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 py-3">
-        <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-          <img class="d-sm-none d-lg-block img-fluid mt-5 mb-3" src="/img/air_support.svg" alt="">
         </div>
       </div>
     </div>
