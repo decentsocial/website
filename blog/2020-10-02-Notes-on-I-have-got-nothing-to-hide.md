@@ -141,6 +141,8 @@ Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other 
 
 <h5>Check out <a href="/">Decent.Social</a>, an ad-free & privacy-friendly Twitter reader!</h5>
 
+<a target="_blank" rel="noopener" href="https://twitter.com/share?url=https://decent.social{{ page.url }}&text={{ page | twitterText }}&ref_src=twsrc%5Etfw" class="twitter-share-button no-underline btn-primary btn-sm" data-show-count="false">Share this on Twitter <i class="icon icon-twitter"></i>&nbsp;</a>
+
 ---
 
 [^1]: James Risen & Eric Lichtblau, Bush Lets U.S. Spy on Callers Without Courts: Secret Order to Widen Domestic Monitoring, N.Y. TIMES, Dec. 16, 2005, at A1
