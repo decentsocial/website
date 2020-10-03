@@ -6,6 +6,7 @@ layout: layout.njk
 {% block content %}
 <section class="text-left">
   <div class="container">
+    <h1 class="title">Decent is Free & Open-source software</h1>
     <div class="row">
       <div class="col-md-8 my-5 py-5">
         <p class="lead">
@@ -20,7 +21,7 @@ layout: layout.njk
         <p class="lead mt-5">
           Current open-source projects
         </p>
-        <ul class="list-group list-group-flush">
+        <ul class="list-group list-group-flush mb-5">
           <li class="list-group-item">
             <a target="_blank" href="https://github.com/decentsocial/website">decent.social website</a>
           </li>
