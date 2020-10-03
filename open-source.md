@@ -1,0 +1,28 @@
+---
+title: Decent CLI
+layout: layout.njk
+---
+
+{% block content %}
+<section class="text-left">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 my-5 py-5">
+        <p class="lead">
+          The codebase of Decent is <a target="_blank" href="https://github.com/decentsocial">Open-Source and freely available on GitHub</a>
+        </p>
+        <p class="lead">
+        The source-code is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank">Affero General Public Licene 3.0</a>, as <a href="https://github.com/zedeus/nitter" target="_blank">Nitter</a>
+        </p>
+        <p class="lead">
+          You can decide to self-host it on your own machine and maintaing it by yourself.
+        </p>
+      </div>
+      <div class="col-md-4 my-5 py-5">
+        <img class="img-fluid" src="/img/open-source.svg" />
+      </div>
+    </div>
+    {% include 'cta.html' %}
+  </div>
+</section>
+{% endblock %}
