@@ -9,24 +9,21 @@ layout: layout.njk
   <div class="container">
     <div class="mx-auto mt-5 mb-5 text-left">
       <h1 class=" masthead-heading">Privacy-friendly <span style="display: inline-block">Twitter Reader</span></h1>
-      <h4 class=" ">Decent is an ad-free, privacy-first Twitter reading experience</h4>
+      <h4 class=" my-5">Decent is an ad-free, privacy-first Twitter reading experience</h4>
+      <h4 class="my-5">Tired of ads, suggestions, promoted tweets?</h4>
       <div class="row">
         <div class="col-lg-8">
-          <div class="mb-2 mt-5">
-            <div class="d-none  d-lg-block">
-              <br>
-              <br>
-            </div>
-            <h2>Too many ads, suggestions, promoted tweets?</h2>
-            <h4 class="mt-4 mb-4">Stop Twitter from profiling you</h4>
-            <p class="big">
-              It's <b>your Twitter timeline</b> after all
-              <br>
-              <br>
-              Enjoy a <b>decent Twitter reading experience</b>
+          <div class="my-5">
+            <p class="lead my-5">
+              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get free early access</a>
             </p>
-            <p class="lead mt-5">
-              <a class="btn btn-primary btn-lg track-join-now" href="#cta">Get free access during beta</a>
+            <br>
+            <h4 class="my-5">Stop Twitter from profiling you</h4>
+            <p class="big my-5">
+              It's <b>your Twitter timeline</b> after all
+            </p>
+            <p class="big my-5">
+              Enjoy a <b>decent Twitter reading experience</b>
             </p>
           </div>
         </div>
@@ -39,7 +36,7 @@ layout: layout.njk
   </div>
 </header>
 
-<section id="features" class="features-icons mb-5">
+<section id="features" class="features-icons my-5">
   <div class="container">
     <img class="img-fluid mt-5 mb-3" src="/img/clouds.svg" alt="" style="width: 25em;">
     <h1 class="title">Benefits of Decent</h1>
