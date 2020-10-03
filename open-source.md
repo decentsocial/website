@@ -17,6 +17,25 @@ layout: layout.njk
         <p class="lead">
           You can decide to self-host it on your own machine and maintaing it by yourself.
         </p>
+        <p class="lead mt-5">
+          Current open-source projects
+        </p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">
+            <a target="_blank" href="https://github.com/decentsocial/website">decent.social website</a>
+          </li>
+          <li class="list-group-item">
+            <a target="_blank" href="https://github.com/decentsocial/cli">decent.social cli</a>
+          </li>
+          <li class="list-group-item">
+            <a target="_blank" href="https://github.com/decentsocial/nitter">fork of nitter</a>
+          </li>
+        </ul>
+        <p class="lead">
+          Feel free to contribute on the open-source projects!
+          <br>
+          Feedback and help and much appreciated!
+        </p>
       </div>
       <div class="col-md-4 my-5 py-5">
         <img class="img-fluid" src="/img/open-source.svg" />
