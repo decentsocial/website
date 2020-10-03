@@ -1,3 +1,5 @@
+const today = new Date().toISOString().substring(0, 10)
+
 module.exports = {
   ignoredFiles: ['gulpfile.js', '._includes', 'scss', 'LICENSE', 'README.md'],
   collections: {
@@ -14,6 +16,9 @@ module.exports = {
       const minutes = parseInt(readingTimeInMinutes, 10)
       return minutes > 1 ? `${minutes} minutes` : `1 minute`
     }
+  }, {
+    name: 'withDomain',
+    filter: (url) => (url && url.startsWith('/')) ? `https://cri.dev${url}` : url
   }, {
     name: 'twitterText',
     filter: (post) => `${encodeURIComponent(`"${post.data.title}", by @christian_fei ${post.attributes.tags.filter(t=> !['general', 'post', 'featured', 'draft'].includes(t)).filter((_, i) => i < 2).map(t => `#${t}`).join(' ')}`)}`
