@@ -3,6 +3,7 @@
 @import "mixins.scss";
 // Global CSS
 @import "global.scss";
+@import "type-scale.scss";
 // Components
 @import "masthead.scss";
 @import "showcase.scss";
@@ -15,3 +16,4 @@
   padding-top: 1.5em;
   padding-bottom: 1.5em;
 }
+
