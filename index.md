@@ -112,7 +112,7 @@ layout: layout.njk
           </h3>
           <p class="lead mb-0">
             <p class="lead mb-0">
-              Read Twitter <b class="">without the distrations</b>
+              Read Twitter <b class="">without the distractions</b>
               <br>
               Get back control over <b class="">your Timeline</b>
             </p>
