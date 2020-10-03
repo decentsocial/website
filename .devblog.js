@@ -10,7 +10,7 @@ module.exports = {
     filter: (content) => {
       const words = (content || '').split(' ').length
       const averageWPM = 250
-      const readingTimeInMinutes  = words / averageWPM * 2
+      const readingTimeInMinutes  = words / averageWPM
       const minutes = parseInt(readingTimeInMinutes, 10)
       return minutes > 1 ? `${minutes} minutes` : `1 minute`
     }
