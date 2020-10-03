@@ -1,0 +1,36 @@
+{% extends 'layout.njk' %}
+
+{% block content %}
+
+<article class="container" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="name headline mb-5" class="title no-anchor">{{ title }}</h1>
+
+    <p class="light mt-5">
+      <time datetime="{{ page.data.date | isoday }}" itemprop="datePublished">
+        {{ page.data.date | isoday }}
+      </time>
+      {% if page.data.updated %}
+        &nbsp;&middot;&nbsp;(<i>last updated {{ page.data.updated | isoday }}</i>)
+      {% endif %}
+      &nbsp;&middot;&nbsp;
+      {{ content | words }} words &middot; {{ content | readingTime }}
+      &nbsp;&middot;&nbsp;
+      by <a href="https://cri.dev/" itemprop="author">cri</a>
+    </p>
+    {% if page.data.hackernews %}
+      <p>
+      Discussion <a href="{{ page.data.hackernews }}">on HackerNews</a>
+      </p>
+    {% endif %}
+  </header>
+
+
+  <div class="main-content" itemprop="articleBody">{{ content | safe }}</div>
+
+  <p class="tac ">
+    {% include 'snippets/tweet-this.html' %}
+  </p>
+</article>
+
+{% endblock %}
