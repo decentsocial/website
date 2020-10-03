@@ -24,6 +24,9 @@ module.exports = {
     name: 'words',
     filter: (content) => (content || '').split(' ').length
   }, {
+    name: 'json',
+    filter: (content) => JSON.stringify(content || {})
+  }, {
     name: 'isodate',
     filter: (date) => {
       try {
