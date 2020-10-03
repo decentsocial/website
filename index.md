@@ -108,7 +108,7 @@ layout: layout.njk
   </div>
 </section>
 
-<section class="showcase">
+<section class="showcase mt-5">
   {% include 'showcase.html' %}
 </section>
 
