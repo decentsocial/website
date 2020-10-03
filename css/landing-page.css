@@ -170,3 +170,8 @@ footer.footer {
   padding-top: 1.5em;
   padding-bottom: 1.5em;
 }
+
+main {
+  -webkit-margin-start: 10em;
+  margin-inline-start: 10em;
+}
