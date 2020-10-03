@@ -141,7 +141,7 @@ Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other 
 
 <h5>Check out <a href="/">Decent.Social</a>, an ad-free & privacy-friendly Twitter reader!</h5>
 
-<a target="_blank" rel="noopener" href="https://twitter.com/share?url=https://decent.social{{ page.url }}&text={{ page | twitterText }}&ref_src=twsrc%5Etfw" class="twitter-share-button no-underline btn-primary btn-sm" data-show-count="false">Share this on Twitter <i class="icon icon-twitter"></i>&nbsp;</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/share?url=https://decent.social/blog/2020-10-02-Notes-on-I-have-got-nothing-to-hide/&text=Notes on I have got nothing to hide&ref_src=twsrc%5Etfw" class="twitter-share-button no-underline btn-primary btn-sm" data-show-count="false">Share this on Twitter <i class="icon icon-twitter"></i>&nbsp;</a>
 
 ---
 
