@@ -36,7 +36,7 @@ layout: layout.njk
   </div>
 </header>
 
-<section id="features" class="features-icons my-5">
+<section id="benefits" class="features-icons my-5">
   <div class="container">
     <img class="img-fluid mt-5 mb-3" src="/img/clouds.svg" alt="" style="width: 25em;">
     <h1 class="title">Benefits of Decent</h1>
