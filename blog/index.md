@@ -11,4 +11,5 @@ layout: layout.njk
     <p>{{post.excerpt | safe}}</p>
   {% endfor%}
 </div>
+  
 {% endblock %}
