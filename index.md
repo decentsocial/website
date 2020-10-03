@@ -123,7 +123,7 @@ layout: layout.njk
   </div>
 </section>
 
-<section class="showcase mt-5">
+<section class="showcase py-5 mt-5">
   {% include 'showcase.html' %}
 </section>
 
