@@ -139,6 +139,8 @@ This is definitely the most interesting paper I've ever read about Privacy.
 
 Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 
+<h5>Check out <a href="/">Decent.Social</a>, for an ad-free & privacy-friendly Twitter reader!</h5>
+
 ---
 
 [^1]: James Risen & Eric Lichtblau, Bush Lets U.S. Spy on Callers Without Courts: Secret Order to Widen Domestic Monitoring, N.Y. TIMES, Dec. 16, 2005, at A1
