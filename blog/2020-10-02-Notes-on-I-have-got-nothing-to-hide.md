@@ -1,5 +1,5 @@
 ---
-title: "Notes on “I've got nothing to hide”"
+title: "Notes on “I've got nothing to hide”  and Other Misunderstandings of Privacy"
 date: 2020-10-02
 layout: post.njk
 tags:
