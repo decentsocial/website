@@ -12,6 +12,15 @@ layout: layout.njk
         <h3 class="">You'll be one of the first to know when Decent is ready!</h3>
       </div>
     </div>
+    <div class="row mt-5 mb-5">
+      <div class="col-lg-12 mx-auto">
+        <h3>From the blog</h3>
+        {% for post in collections.post %}
+          <h1 class="title display-4 mt-5"><a href="{{post.url}}">{{post.data.title}}</a></h1>
+          <p>{{post.excerpt | safe}}</p>
+        {% endfor%}
+      </div>
+    </div>
     <br>
     <br>
     <div class="row mt-5">
