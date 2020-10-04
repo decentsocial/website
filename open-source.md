@@ -23,6 +23,9 @@ layout: layout.njk
           <br>
           We are proudly sponsoring <a href="https://github.com/sponsors/zedeus" target="_blank">the nitter project</a> with a 5$ monthly donation&nbsp;🙌
         </p>
+        <p class="lead">
+          You can use our public <b>nitter instance</b> at <a href="https://nitter.decent.social/" target="_blank">nitter.decent.social</a> too
+        </p>
         <p class="lead mt-5">
           Current open-source projects
         </p>
