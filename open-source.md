@@ -18,6 +18,9 @@ layout: layout.njk
         <p class="lead">
           You can decide to self-host it on your own machine and maintaing it by yourself.
         </p>
+        <p class="lead">
+          You can also support us <a href="https://github.com/sponsors/decentsocial/" target="_blank">on GitHub sponsors!</a>
+        </p>
         <p class="lead mt-5">
           Current open-source projects
         </p>
