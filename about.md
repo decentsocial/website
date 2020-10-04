@@ -18,6 +18,16 @@ layout: layout.njk
         A public nitter instance is available at <a href="https://nitter.decent.social" target="_blank">nitter.decent.social</a>
         </p>
       </div>
+      <div class="col-lg-12 mx-auto">
+        <p class="lead">
+          Decent aims to be an ad-free, privacy-first Twitter reading experience.
+          <br>
+          Enjoy a <b>decent Twitter reading experience</b>, with Decent
+        </p>
+      </div>
+      <div class="col-lg-12 mx-auto">
+        {% include 'cta-small.html' %}
+      </div>
     </div>
   </div>
 </section>
