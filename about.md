@@ -20,8 +20,6 @@ layout: layout.njk
       </div>
       <div class="col-lg-12 mx-auto">
         <p class="lead">
-          Decent aims to be an ad-free, privacy-first Twitter reading experience.
-          <br>
           Enjoy a <b>decent Twitter reading experience</b>, with Decent
         </p>
       </div>
