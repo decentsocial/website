@@ -5,27 +5,27 @@ minify: false
 ---
 {% block content %}<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://decent.social</loc>
+    <loc>{{ '' | withDomain}}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://decent.social/cli/</loc>
+    <loc>{{ '/cli/' | withDomain }}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://decent.social/open-source/</loc>
+    <loc>{{ '/open-source/' | withDomain }}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://decent.social/privacy/</loc>
+    <loc>{{ '/privacy/' | withDomain }}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://decent.social/blog/</loc>
+    <loc>{{ '/blog/' | withDomain }}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
   </url>
