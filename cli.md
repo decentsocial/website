@@ -8,7 +8,7 @@ layout: layout.njk
   <div class="container">
     <div class="row mt-5 mb-5">
       <div class="col-lg-12 mx-auto">
-        <h1 class="display-3">decent.social cli</h1>
+        <h1 class="title">decent.social cli</h1>
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
       <div class="col-lg-12 mx-auto mt-5">
