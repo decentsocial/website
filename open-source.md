@@ -39,7 +39,7 @@ layout: layout.njk
         </p>
       </div>
       <div class="col-md-4 my-5 py-5">
-        <img class="img-fluid" src="/img/open-source.svg" />
+        <img class="img-fluid" lazy="/img/open-source.svg" />
       </div>
     </div>
     {% include 'cta.html' %}

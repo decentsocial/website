@@ -37,7 +37,7 @@ npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
         <video autoplay loop src="/img/decent.social.cli.mp4"></video>
       </div>
       <div class="col-lg-11 mx-auto mt-5">
-        <img class="img-fluid" src="/img/cli.carbon.png" />
+        <img class="img-fluid" lazy="/img/cli.carbon.png" />
       </div>
     </div>
   </div>

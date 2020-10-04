@@ -14,7 +14,7 @@ layout: layout.njk
       {% endfor%}
     </div>
     <div class="col-xl-2 mx-auto d-none-lg d-block-xl">
-      <img class="img-fluid" style="max-width: 150px" src="/img/letters.svg"/>
+      <img class="img-fluid" style="max-width: 150px" lazy="/img/letters.svg"/>
     </div>
   </div>
 </div>
