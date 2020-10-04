@@ -98,7 +98,7 @@ mkbhd
         </div>
       </div>
       <div class="col-lg-12 mx-auto text-center mt-5">
-        <video autoplay loop src="/img/decent.social.cli.mp4"></video>
+        <video class="img-fluid" style="max-width: 100%" autoplay loop src="/img/decent.social.cli.mp4"></video>
       </div>
       <div class="col-lg-11 mx-auto mt-5">
         <img class="img-fluid" lazy="/img/cli.carbon.png" />
