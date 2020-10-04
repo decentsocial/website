@@ -143,6 +143,32 @@ Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other 
 
 <a target="_blank" rel="noopener" href="https://twitter.com/share?url=https://decent.social/blog/2020-10-02-Notes-on-I-have-got-nothing-to-hide/&text=Notes on I have got nothing to hide&ref_src=twsrc%5Etfw" class="twitter-share-button no-underline btn-primary btn-sm" data-show-count="false">Share this on Twitter <i class="icon icon-twitter"></i>&nbsp;</a>
 
+<div class="container my-5">
+  <div class="row">
+    <div class="col-lg-12 mx-auto mt-0">
+      <h3 class="mt-0 mb-0">Decent is an ad-free, privacy-first Twitter reading experience</h3>
+      <h4 class="mt-3 "><b>Join <b>15</b> others in the waiting list!</h4>
+      <form 
+        action="https://buttondown.email/api/emails/embed-subscribe/decentsocial"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/decentsocial', 'popupwindow')"
+        class="embeddable-buttondown-form"
+      >
+        <div class="form-row">
+          <div class="col-sm-9">
+            <input type="email" name="email" id="bd-email" class="form-control form-control-lg" placeholder="Your email"></input>
+          </div>
+          <div class="col-sm-3">
+            <input type="hidden" value="1" name="embed"></input>
+            <input type="submit" value="Get free early access" class="btn btn-block btn-lg btn-primary"></input>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
 ## Foot notes
 
 [^1]: James Risen & Eric Lichtblau, Bush Lets U.S. Spy on Callers Without Courts: Secret Order to Widen Domestic Monitoring, N.Y. TIMES, Dec. 16, 2005, at A1
