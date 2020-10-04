@@ -12,28 +12,86 @@ layout: layout.njk
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
       <div class="col-lg-9 mx-auto mt-5">
-        <code class="pre-scrollable code">
+        <h1 class="title mt-5 mb-3">Installation</h1>
+        <code style="font-size: 2rem">
 npm i -g decent-social-cli
-
-decent --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
-
-or
-
-npx decent-social-cli --max 100 --username 'lexfridman,ProfFeynman,MKBHD'
+        </code>
+        <br>
+        <br>
+        or, for one-off runs
+        <code>
+npx decent-social-cli --help
+        </code>
+        <br>
+        <br>
+        <h1 class="title mt-5 mb-3">Set up</h1>
+        <p class="lead">
+          initialize your timeline with your current Twitter username if you like.
+          <br>
+          this will fetch you current followers (currently max 100) and add them to <code>~/.decent/usernames</code>
+          <br>
+          <br>
+          <code>
+decent init &lt;username&gt;
+          </code>
+        </p>
+        <h1 class="title mt-5 mb-3">example</h1>
+        <code>decent init christian_fei</code>
+        <br>
+        <br>
+        <code>~/.decent/usernames</code> looks like this
+        <br>
+        <br>
+        <pre><code>
+elonmusk
+lexfridman
+mkbhd
+...
+        </code></pre>
+        <br>
+        <br>
+        Read your Twitter timeline with <b>less</b>
+        <br>
+        <br>
+        <code>
+decent --max 100 | less
+        </code>
+        <h1 class="title mt-5 mb-3">Commands</h1>
+        <p class="lead">
+          for more information, see <code>decent --help</code>
+          <br>
+          <pre><code>
+# Initialize ~/.decent/usernames
+decent init<br>
+# List your timeline based on ~/.decent/usernames
+decent list<br>
+# List the timeline of the user "lexfridman"
+decent list lexfridman<br>
+# Show max 100 tweets
+decent list --max 100<br>
+# Show max 100 tweets without retweets
+decent list --no-retweets --max 100<br>
+# Show max 100 tweets without replies
+decent list --no-replies --max 100<br>
+# Show max 100 tweets without replies without retweets
+decent list --no-replies --no-retweets --max 100<br>
+# Filter tweets containing term "erlang"
+decent filter erlang<br>
+# Follow user "lexfridman"
+decent follow lexfridman<br>
+# unfollow user "lexfridman"
+decent unfollow lexfridman<br>
+# Followers of user "lexfridman"
+decent followers lexfridman
+          </code></pre>
+        </p>
+        <br>
+        <br>
+        <code style="font-size: 2rem">
+npm i -g decent-social-cli
         </code>
       </div>
-      <div class="col-lg-9 mx-auto mt-5">
-        <p>
-          Create a file called `~/.decent/usernames` to avoid specifying `--username` over and over again.
-          <br>
-          <a target="_blank" href="https://github.com/decentsocial/cli/blob/master/usernames.example">Here you can find an example</a>
-        </p>
-        <p>
-          Tada! You created your own private Twitter timeline!
-        </p>
-        <p>The source code is on <a target="_blank" href="https://github.com/decentsocial/cli">GitHub</a></p>
-      </div>
-      <div class="col-lg-12 mx-auto text-center">
+      <div class="col-lg-12 mx-auto text-center mt-5">
         <video autoplay loop src="/img/decent.social.cli.mp4"></video>
       </div>
       <div class="col-lg-11 mx-auto mt-5">
