@@ -38,7 +38,7 @@ decent init &lt;username&gt;
           </p>
         </div>
         <div class="mt-5">
-          <h1 class="title mt-5 mb-3">example</h1>
+          <h1 class="title mt-5 mb-3">Example</h1>
           <code>decent init christian_fei</code>
           <br>
           <br>
