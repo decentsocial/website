@@ -65,7 +65,7 @@ mkbhd
           <p class="lead">
             for more information, see <code>decent --help</code>
             <br>
-            <pre class="pre-scrollable"><code>
+            <pre class="" style="overflow-x: scroll;"><code>
   # Initialize ~/.decent/usernames
   decent init<br>
   # List your timeline based on ~/.decent/usernames
