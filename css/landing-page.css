@@ -189,6 +189,6 @@ main, h1, h2, h3, h4, h5, a {
   scroll-margin-top: 15wrem;
 }
 
-main img {
-  max-width: 100% !important;
+img {
+  max-width: 100%;
 }
