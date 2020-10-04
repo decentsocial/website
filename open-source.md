@@ -20,6 +20,8 @@ layout: layout.njk
         </p>
         <p class="lead">
           You can also support us <a href="https://github.com/sponsors/decentsocial/" target="_blank">on GitHub sponsors!</a>
+          <br>
+          We are proudly sponsoring <a href="https://github.com/sponsors/zedeus" target="_blank">the nitter project</a> with a 5$ monthly donation&nbsp;🙌
         </p>
         <p class="lead mt-5">
           Current open-source projects
