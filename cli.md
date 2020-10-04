@@ -11,6 +11,9 @@ layout: layout.njk
         <h1 class="title">decent.social cli</h1>
         <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
       </div>
+      <div class="col-lg-12 mx-auto">
+        <video class="img-fluid" style="max-width: 100%" autoplay loop src="/img/decent.social.cli.mp4"></video>
+      </div>
       <div class="col-lg-12 mx-auto mt-5">
         <div class="mt-5">
           <h1 class="title mt-5 mb-3">Installation</h1>
