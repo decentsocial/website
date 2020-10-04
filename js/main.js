@@ -50,7 +50,7 @@ function lazyLoad (selector = '[lazy]') {
   let lastCheck = Date.now()
   let scrolling = false
   const scrollIntervalHandle = setInterval(() => {
-    if (scrolling && lastCheck > Date.now() - 3000) {
+    if (scrolling && lastCheck > Date.now() - 1000) {
       $lazy = $lazy.filter(toApplyLazyLoad)
     } else {
       scrolling = false
@@ -100,7 +100,7 @@ function isScrolledIntoView (el) {
   return (
     rect.top >= 0 &&
     rect.left >= 0 &&
-    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) - 100 &&
     rect.right <= (window.innerWidth || document.documentElement.clientWidth) + rect.width
   )
 }
