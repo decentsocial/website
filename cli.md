@@ -101,7 +101,7 @@ mkbhd
         <video class="img-fluid" style="max-width: 100%" autoplay loop src="/img/decent.social.cli.mp4"></video>
       </div>
       <div class="col-lg-12 mx-auto mt-5">
-        <img class="img-fluid" style="max-width: 10 lazy="/img/cli.carbon.png" />
+        <img class="img-fluid" style="max-width: 100%" lazy="/img/cli.carbon.png" />
       </div>
     </div>
   </div>
