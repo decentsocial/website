@@ -57,6 +57,9 @@ layout: layout.njk
           <a href="/blog/" class="list-group-item list-group-item-action py-3">
             Blog
           </a>
+          <a href="/blog/2020-10-02-Notes-on-I-have-got-nothing-to-hide/" class="list-group-item list-group-item-action py-3">
+            Notes on “I've got nothing to hide”
+          </a>
           <a href="/cli/" class="list-group-item list-group-item-action py-3">
             Command Line Interface
           </a>
