@@ -17,7 +17,7 @@ layout: layout.njk
   {% include 'showcase.html' %}
 </section>
 
-<section id="cta" class="text-center mt-5 py-5">
+<section id="cta" class="container text-center mt-5 py-5">
   {% include 'cta.html' %}
 </section>
 
@@ -78,7 +78,7 @@ layout: layout.njk
   </div>
 </section>
 
-<section id="cta-end" class="text-center mt-5 py-5">
+<section id="cta-end" class="container text-center mt-5 py-5">
   {% include 'cta.html' %}
 </section>
 
