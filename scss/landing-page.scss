@@ -17,7 +17,11 @@
   padding-bottom: 1.5em;
 }
 
+.footnotes-list {
+  overflow: hidden;
+}
 .footnote-item a {
   text-overflow: ellipsis;
-  display: block;
+  display: inline;
+  overflow: hidden;
 }
