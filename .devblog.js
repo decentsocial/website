@@ -18,13 +18,13 @@ module.exports = {
     }
   }, {
     name: 'withDomain',
-    filter: (url) => (url && url.startsWith('/')) ? `https://cri.dev${url}` : url
+    filter: (url) => (url && url.startsWith('/') || url === '') ? `https://decent.social${url}` : url
   }, {
     name: 'twitterText',
-    filter: (post) => `${encodeURIComponent(`"${post.data.title}", by @christian_fei ${post.attributes.tags.filter(t=> !['general', 'post', 'featured', 'draft'].includes(t)).filter((_, i) => i < 2).map(t => `#${t}`).join(' ')}`)}`
+    filter: (post) => `${encodeURIComponent(`"${post.data.title}" ${post.attributes.tags.filter(t=> !['general', 'post', 'featured', 'draft'].includes(t)).filter((_, i) => i < 2).map(t => `#${t}`).join(' ')}`)}`
   }, {
     name: 'twitterTitle',
-    filter: (title) => `"${encodeURIComponent(title || '')}", by @christian_fei`
+    filter: (title) => `"${encodeURIComponent(title || '')}"`
   }, {
     name: 'words',
     filter: (content) => (content || '').split(' ').length
