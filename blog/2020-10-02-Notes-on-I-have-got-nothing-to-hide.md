@@ -143,7 +143,7 @@ Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other 
 
 <a target="_blank" rel="noopener" href="https://twitter.com/share?url=https://decent.social/blog/2020-10-02-Notes-on-I-have-got-nothing-to-hide/&text=Notes on I have got nothing to hide&ref_src=twsrc%5Etfw" class="twitter-share-button no-underline btn-primary btn-sm" data-show-count="false">Share this on Twitter <i class="icon icon-twitter"></i>&nbsp;</a>
 
-<div class="container my-5">
+<div class="container1 my-5">
   <div class="row">
     <div class="col-lg-12 mx-auto mt-0">
       <h3 class="mt-0 mb-0">Decent is an ad-free, privacy-first Twitter reading experience</h3>
