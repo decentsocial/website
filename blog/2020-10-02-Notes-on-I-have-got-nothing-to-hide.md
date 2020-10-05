@@ -17,7 +17,7 @@ Read it yourself, below you can find my notes about it.
 
 # Wiretapping, terrorism, analysis
 
-The american government, after sep 11, engaged in mass surveillance and data-mining [^1]
+The American government, after sep 11, engaged in mass surveillance and data-mining [^1]
 
 Authorizing NSA to do warrantless wiretapping and analysis suspicious behaviour of its citizen [^2]
 
@@ -33,9 +33,9 @@ Ultimately the program has been defunded, after it got the public eyes (most lik
 
 This brought to outrage by many, ignorance by many other making the point “I’ve got nothing to hide” [^8]
 
-"If an individual acts in lawful ways, there's nothing to worry about" another point made [^9]
+"If an individual acts in lawful ways, there's nothing to worry about" another point was made [^9]
 
-"A privacy harm exists only if skeletons in the closet are revealed" another point made [^10]
+"A privacy harm exists only if skeletons in the closet are revealed" [^10]
 
 “If you have nothing to hide, then what do you have to fear?” [^11]
 
@@ -43,17 +43,17 @@ Others ask: “If you aren’t doing anything wrong, then what do you have to hi
 
 **The problem about privacy lies in this very question itself** [^13] 
 
-# The "nothing to hide" argument
+# The "Nothing to hide" argument
 
 Most common points made:
 
 Nothing to hide, nothing to fear
 
-Read my e-emails, i've got nothing to hide
+Read my e-mails, I've got nothing to hide
 
-Profile me, analyze me, i've done nothing bad or illegal, do you?
+Profile me, analyze me, I've done nothing bad or illegal, do you?
 
-Monitor my phone calls, read what I say about my noisy neighbour, i've got nothing to hide
+Monitor my phone calls, read what I say about my noisy neighbour, I've got nothing to hide
 
 If you have something to hide, you should be found, captured and sentenced [^14]
 
