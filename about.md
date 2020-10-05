@@ -12,11 +12,15 @@ layout: layout.njk
         <p class="lead">
         Decent started in September 2020 as a <a href="/cli">side-project</a> of mine.
         <br>
-        A privacy-first, ad-free Twitter experience. From the command line.
+        A privacy-first, ad-free Twitter experience, from the command line.
         <br>
         I used nitter RSS feeds to retrieve the tweets.
         <br>
         A public nitter instance is available at <a href="https://nitter.decent.social" target="_blank">nitter.decent.social</a>
+        <br>
+        In September 2020 I decided to start gathering feedback and potential customers for <a href="/">decent.social</a>.
+        <br>
+        Decent aims to remove all the clutter and tracking from Twitter.
         </p>
       </div>
       <div class="col-lg-12 mx-auto">
