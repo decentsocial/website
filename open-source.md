@@ -43,7 +43,7 @@ layout: layout.njk
         <p class="lead">
           Feel free to contribute on the open-source projects!
           <br>
-          Feedback and help and much appreciated!
+          Feedback and help are much appreciated!
         </p>
       </div>
       <div class="col-md-4 my-5 py-5">
