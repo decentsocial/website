@@ -6,7 +6,6 @@ tags:
   - post
   - featured
   - privacy
-image: https://images.unsplash.com/photo-1580847097346-72d80f164702?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=80
 ---
 
 Recently I stumbled upon this paper about <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565">“I've Got Nothing to Hide” and Other Misunderstandings of Privacy</a> by Daniel J. Solove
