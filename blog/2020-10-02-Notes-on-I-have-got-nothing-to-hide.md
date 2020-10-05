@@ -15,7 +15,7 @@ Read it yourself, below you can find my notes about it.
 
 ---
 
-## wiretapping, terrorism, analysis
+# wiretapping, terrorism, analysis
 
 the american government, after sep 11, engaged in mass surveillance and data-mining [^1]
 
@@ -43,7 +43,7 @@ Others ask: “If you aren’t doing anything wrong, then what do you have to hi
 
 **The problem about privacy lies in this very question itself** [^13] 
 
-## the "nothing to hide" argument
+# the "nothing to hide" argument
 
 most common points made:
 
@@ -82,7 +82,7 @@ For most people the trade-off of privacy vs security makes totally sense. "If by
 This is why the arguments against "nothing to hide" is very difficult to get across, since the protection against terrorist attacks outweighs whatever minimal or moderate privacy interests someone might have. [^25]
 
 
-## conceptualizing privacy
+# conceptualizing privacy
 
 "nobody really seems to have any clear idea what privacy really is." [^26]
 
@@ -133,7 +133,7 @@ The nothing to hide argument speaks to some problems, but not to others. [^41]
 
 It represents a singular and narrow way of conceiving of privacy, and it wins by excluding consideration of the other problems often raised in government surveillance and data mining programs.
 
----
+# final words
 
 This is definitely the most interesting paper I've ever read about Privacy.
 

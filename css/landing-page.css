@@ -192,3 +192,29 @@ main, h1, h2, h3, h4, h5, a {
 img {
   max-width: 100%;
 }
+
+.main-content h1 {
+  background-color: black !important;
+  margin-top: 4em !important;
+  margin-bottom: 4em !important;
+}
+
+.main-content h2 {
+  margin-top: 3.5em !important;
+  margin-bottom: 3.5em !important;
+}
+
+.main-content h3 {
+  margin-top: 3.2em !important;
+  margin-bottom: 3.2em !important;
+}
+
+.main-content h4 {
+  margin-top: 2.7em !important;
+  margin-bottom: 2.7em !important;
+}
+
+.main-content h5 {
+  margin-top: 2em !important;
+  margin-bottom: 2em !important;
+}
