@@ -19,7 +19,7 @@ layout: layout.njk
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3 cost">
-              5$
+              5 $
             </h1> / month
             <br> for hosting a VPS on <a target="_blank" href="https://m.do.co/c/880e8f681b50">DigitalOcean</a>
           </p>
@@ -35,7 +35,7 @@ layout: layout.njk
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3 profit">
-              0 $
+              5 $
             </h1> / month
             <br> current <a target="_blank" href="https://github.com/sponsors/decentsocial">GitHub Sponsors</a>
           </p>
