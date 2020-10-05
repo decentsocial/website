@@ -11,10 +11,10 @@ layout: layout.njk
   </p>
   <div class="row">
     <div class="col-sm-12">
-      <h1 class="title mt-5">Costs</h1>
+      <h1 class="title mt-5">💵&nbsp;&nbsp;Financial</h1>
     </div>
     <div class="col-sm-12">
-      <p class="lead mt-5">The costs of running <a href="/">decent.social</a></p>
+      <p class="lead mt-5">The costs and profits of running <a href="/">decent.social</a></p>
       <div class="row">
         <div class="col-sm-3 p-3">
           <p class="lead">
@@ -40,12 +40,20 @@ layout: layout.njk
             <br> current <a target="_blank" href="https://github.com/sponsors/decentsocial">GitHub Sponsors</a>
           </p>
         </div>
+        <div class="col-sm-3 p-3">
+          <p class="lead">
+            <h1 class="title display-3">
+              0 $
+            </h1> / month
+            <br> current MRR
+          </p>
+        </div>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-sm-12">
-      <h1 class="title mt-5">Numbers</h1>
+      <h1 class="title mt-5">💯&nbsp;&nbsp;Numbers</h1>
     </div>
     <div class="col-sm-12">
       <p class="lead mt-5">Other numbers about <a href="/">decent.social</a></p>
