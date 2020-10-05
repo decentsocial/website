@@ -1,6 +1,6 @@
 ---
 title: "Planning Week 41 - HackerNews, Reddit, MVP"
-date: 2020-10-04
+date: 2020-10-05
 layout: post.njk
 tags:
   - post
