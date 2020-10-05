@@ -6,6 +6,7 @@ layout: layout.njk
 {% block content %}
 <section class=" text-left">
   <div class="container">
+    <h1 class="title">About Decent</h1>
     <div class="row mt-5 mb-5">
       <div class="col-lg-12 mx-auto">
         <p class="lead">
