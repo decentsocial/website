@@ -25,7 +25,7 @@ layout: layout.njk
       </div>
       <div class="col-lg-12 mx-auto">
         <p class="lead">
-          Enjoy a <b>decent Twitter reading experience</b>, with Decent
+          Enjoy a <b>decent Twitter reading experience</b>
           <br>
           Turn off all the numbers (likes, retweets, replies, followers)
           <br>
