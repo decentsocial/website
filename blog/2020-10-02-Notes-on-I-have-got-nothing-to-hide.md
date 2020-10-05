@@ -15,27 +15,27 @@ Read it yourself, below you can find my notes about it.
 
 ---
 
-# wiretapping, terrorism, analysis
+# Wiretapping, terrorism, analysis
 
-the american government, after sep 11, engaged in mass surveillance and data-mining [^1]
+The american government, after sep 11, engaged in mass surveillance and data-mining [^1]
 
-authorizing NSA to do warrantless wiretapping and analysis suspicious behaviour of its citizen [^2]
+Authorizing NSA to do warrantless wiretapping and analysis suspicious behaviour of its citizen [^2]
 
-2002: various programs, e.g. Total Information Awareness (TIA) [^3] started collecting financial, health-related, educational and other data
+2002: Various programs, e.g. Total Information Awareness (TIA) [^3] started collecting financial, health-related, educational and other data
 
-looking for patterns of potential terrorism behaviour of its citizen [^4]
+Looking for patterns of potential terrorism behaviour of its citizen [^4]
 
-ultimately the program has been defunded, after it got the public eyes (most likely continuing in clandestine fashion) [^5]
+Ultimately the program has been defunded, after it got the public eyes (most likely continuing in clandestine fashion) [^5]
 
-2006: analysis of customer records from major phone companies [^6]
+2006: Analysis of customer records from major phone companies [^6]
 
-2006: access to bank records from SWIFT (Society for Worldwide Interbank Financial Transactions) [^7]
+2006: Access to bank records from SWIFT (Society for Worldwide Interbank Financial Transactions) [^7]
 
-this brought to outrage by many, ignorance by many other making the point “I’ve got nothing to hide” [^8]
+This brought to outrage by many, ignorance by many other making the point “I’ve got nothing to hide” [^8]
 
-"if an individual acts in lawful ways, there's nothing to worry about" another point made [^9]
+"If an individual acts in lawful ways, there's nothing to worry about" another point made [^9]
 
-"a privacy harm exists only if skeletons in the closet are revealed" another point made [^10]
+"A privacy harm exists only if skeletons in the closet are revealed" another point made [^10]
 
 “If you have nothing to hide, then what do you have to fear?” [^11]
 
@@ -43,35 +43,35 @@ Others ask: “If you aren’t doing anything wrong, then what do you have to hi
 
 **The problem about privacy lies in this very question itself** [^13] 
 
-# the "nothing to hide" argument
+# The "nothing to hide" argument
 
-most common points made:
+Most common points made:
 
-nothing to hide, nothing to fear
+Nothing to hide, nothing to fear
 
-read my e-emails, i've got nothing to hide
+Read my e-emails, i've got nothing to hide
 
-profile me, analyze me, i've done nothing bad or illegal, do you?
+Profile me, analyze me, i've done nothing bad or illegal, do you?
 
-monitor my phone calls, read what I say about my noisy neighbour, i've got nothing to hide
+Monitor my phone calls, read what I say about my noisy neighbour, i've got nothing to hide
 
-if you have something to hide, you should be found, captured and sentenced [^14]
+If you have something to hide, you should be found, captured and sentenced [^14]
 
-responses:
+Responses:
 
-do you have curtains? [^15]
+Do you have curtains? [^15]
 
-no need to justify my position, you need to justify yours (govt.): where is your warrant? [^16]
+No need to justify my position, you need to justify yours (govt.): where is your warrant? [^16]
 
-nothing to hide on my side, but nothing to show you either [^17]
+Nothing to hide on my side, but nothing to show you either [^17]
 
-show me you credit card bills of the last year [^18]
+Show me you credit card bills of the last year [^18]
 
-it's about things not being anyone's business [^19]
+It's about things not being anyone's business [^19]
 
 Stalin would have loved this [^20]
 
-everybody has something to hide from somebody. you just need to look hard enough. [^22]
+Everybody has something to hide from somebody. you just need to look hard enough. [^22]
 
 By stating "I've got nothing to hide" you're totally OK with the government infringing rights of millions of people [^21]
 
@@ -82,13 +82,13 @@ For most people the trade-off of privacy vs security makes totally sense. "If by
 This is why the arguments against "nothing to hide" is very difficult to get across, since the protection against terrorist attacks outweighs whatever minimal or moderate privacy interests someone might have. [^25]
 
 
-# conceptualizing privacy
+# Conceptualizing privacy
 
-"nobody really seems to have any clear idea what privacy really is." [^26]
+"Nobody really seems to have any clear idea what privacy really is." [^26]
 
-"it's too vague and complex." [^27]
+"It's too vague and complex." [^27]
 
-understanding what privacy is, is essential to addressing privacy issues.
+Understanding what privacy is, is essential to addressing privacy issues.
 
 "Privacy covers *intimate* information, access and decisions" [^28]
 
@@ -101,29 +101,29 @@ Another metaphor:  Franz Kafka’s The Trial, a bureaucracy with inscrutable pur
 Read about [Taxonomy of Privacy](https://teachprivacy.com/taxonomy-of-privacy/) in more detail. 
 
 
-# the problem with the "nothing to hide" argument
+# The problem with the "nothing to hide" argument
 
-the problem is the underlying assumption that privacy is about hiding bad things. [^32]
+The problem is the underlying assumption that privacy is about hiding bad things. [^32]
 
-the nothing to hide argument comes from a wrong “premise that privacy is about hiding a wrong.” [^33]
+The nothing to hide argument comes from a wrong “premise that privacy is about hiding a wrong.” [^33]
 
-it's also not about "secrecy". [^34]
+It's also not about "secrecy". [^34]
 
-and neither about data you give to third-parties (bank records, telephone numbers, messages, etc). [^35]
+And neither about data you give to third-parties (bank records, telephone numbers, messages, etc). [^35]
 
-because third party records result in the government’s ability to access an extensive amount of personal information with minimal limitation or oversight. [^36]
+Because third party records result in the government’s ability to access an extensive amount of personal information with minimal limitation or oversight. [^36]
 
-information collection is a form of surveillance. dataveilleince (Roger Clarke) [^37]
+Information collection is a form of surveillance. dataveilleince (Roger Clarke) [^37]
 
-this misuse and collection of information can and will harm your right to free-speech, democracy and thought expression (there is doubt about that). [^37]
+This misuse and collection of information can and will harm your right to free-speech, democracy and thought expression (there is doubt about that). [^37]
 
-refer to [socialcooling.com](https://www.socialcooling.com) for more info.
+Refer to [socialcooling.com](https://www.socialcooling.com) for more info.
 
-another problem is "secondary use": the use of data for a unrelated use, ignoring the real reason why data was collected. this of course without the person's consent. [^38]
+Another problem is "secondary use": the use of data for a unrelated use, ignoring the real reason why data was collected. this of course without the person's consent. [^38]
 
-this is of course a very "modern" problem, never before in history of humanity we had so much information available (digitally or physically).
+This is of course a very "modern" problem, never before in history of humanity we had so much information available (digitally or physically).
 
-**the problem with the nothing to hide argument is that it focuses on just one or two particular kinds of privacy problems (the disclosure of personal information or surveillance) and not others.** [^39]
+**The problem with the nothing to hide argument is that it focuses on just one or two particular kinds of privacy problems (the disclosure of personal information or surveillance) and not others.** [^39]
 
 Privacy problems are often difficult to recognize, since it's a very complicated and delicate matter.
 
@@ -133,7 +133,7 @@ The nothing to hide argument speaks to some problems, but not to others. [^41]
 
 It represents a singular and narrow way of conceiving of privacy, and it wins by excluding consideration of the other problems often raised in government surveillance and data mining programs.
 
-# final words
+# Final words
 
 This is definitely the most interesting paper I've ever read about Privacy.
 
