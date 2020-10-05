@@ -75,7 +75,7 @@ layout: layout.njk
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3">
-              22
+              {{collections.subscribers}}
             </h1> <a target="_blank" href="https://buttondown.email/decentsocial/archive/">Subscribers</a> to the mailing list
           </p>
         </div>

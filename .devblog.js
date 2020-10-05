@@ -3,6 +3,7 @@ const today = new Date().toISOString().substring(0, 10)
 module.exports = {
   ignoredFiles: ['gulpfile.js', '._includes', 'scss', 'LICENSE', 'README.md'],
   collections: {
+    subscribers: 22
   },
   nunjucksFilters: [{
     name: 'year',
