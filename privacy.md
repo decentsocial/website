@@ -18,7 +18,7 @@ layout: layout.njk
       <p>This policy is effective as of 27 September 2020.</p>
     </div>
     <div class="col-lg-6 mx-auto mt-5">
-      <h1 class="title text-center">Your private timeline</h1>
+      <h1 class="title text-center">A preview of Decent</h1>
       {% include 'tweets.html' %}
     </div>
   </div>
