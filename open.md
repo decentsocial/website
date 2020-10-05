@@ -61,7 +61,7 @@ layout: layout.njk
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3">
-              3
+              4
             </h1> <a target="_blank" href="https://github.com/decentsocial">Open-source projects</a> on GitHub
           </p>
         </div>

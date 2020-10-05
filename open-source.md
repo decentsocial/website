@@ -38,6 +38,9 @@ layout: layout.njk
           <a target="_blank" href="https://github.com/decentsocial/cli">decent.social cli</a>
         </li>
         <li class="list-group-item">
+          <a target="_blank" href="https://github.com/decentsocial/app">decent.social app</a>
+        </li>
+        <li class="list-group-item">
           <a target="_blank" href="https://github.com/decentsocial/nitter">fork of nitter</a>
         </li>
       </ul>
