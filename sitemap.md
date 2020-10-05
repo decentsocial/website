@@ -20,6 +20,16 @@ minify: false
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>{{ '/open/' | withDomain }}</loc>
+    <lastmod>{{ '' | today }}</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>{{ '/about/' | withDomain }}</loc>
+    <lastmod>{{ '' | today }}</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>{{ '/privacy/' | withDomain }}</loc>
     <lastmod>{{ '' | today }}</lastmod>
     <changefreq>weekly</changefreq>
