@@ -1,5 +1,5 @@
 ---
-title: Decnet Open Stats - A Privacy-friendly and ad-free Twitter reader
+title: Decent Open Stats - A Privacy-friendly and ad-free Twitter reader
 layout: layout.njk
 ---
 
@@ -37,7 +37,7 @@ layout: layout.njk
             <h1 class="title display-3">
               0 $
             </h1> / month
-            <br> current <a href="https://github.com/sponsors/decentsocial">GitHub Sponsors</a>
+            <br> current <a target="_blank" href="https://github.com/sponsors/decentsocial">GitHub Sponsors</a>
           </p>
         </div>
       </div>
@@ -55,6 +55,20 @@ layout: layout.njk
             <h1 class="title display-3">
               3
             </h1> <a target="_blank" href="https://github.com/decentsocial">Open-source projects on GitHub</a>
+          </p>
+        </div>
+        <div class="col-sm-3 p-3">
+          <p class="lead">
+            <h1 class="title display-3">
+              22
+            </h1> <a target="_blank" href="https://buttondown.email/decentsocial/archive/">Subscribers to the mailing list</a>
+          </p>
+        </div>
+        <div class="col-sm-3">
+          <p class="lead">
+            <h1 class="title display-3">
+              9%
+            </h1> <a target="_blank" href="https://plausible.io/decent.social?goal=Visit+%2Fthanks-for-subscribing%2F&period=30d">Conversion Rate</a> for Signups
           </p>
         </div>
       </div>
