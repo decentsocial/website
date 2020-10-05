@@ -18,7 +18,7 @@ layout: layout.njk
       <div class="row">
         <div class="col-sm-3 p-3">
           <p class="lead">
-            <h1 class="title display-3">
+            <h1 class="title display-3 cost">
               5$
             </h1> / month
             <br> for hosting a VPS on <a target="_blank" href="https://m.do.co/c/880e8f681b50">DigitalOcean</a>
@@ -26,7 +26,7 @@ layout: layout.njk
         </div>
         <div class="col-sm-3 p-3">
           <p class="lead">
-            <h1 class="title display-3">
+            <h1 class="title display-3 cost">
               29 $
             </h1> / year
             <br> for the domain
@@ -34,7 +34,7 @@ layout: layout.njk
         </div>
         <div class="col-sm-3 p-3">
           <p class="lead">
-            <h1 class="title display-3">
+            <h1 class="title display-3 profit">
               0 $
             </h1> / month
             <br> current <a target="_blank" href="https://github.com/sponsors/decentsocial">GitHub Sponsors</a>
@@ -42,7 +42,7 @@ layout: layout.njk
         </div>
         <div class="col-sm-3 p-3">
           <p class="lead">
-            <h1 class="title display-3">
+            <h1 class="title display-3 profit">
               0 $
             </h1> / month
             <br> current MRR
