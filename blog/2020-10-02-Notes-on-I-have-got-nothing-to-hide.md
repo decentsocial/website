@@ -10,7 +10,7 @@ tags:
 
 Recently I stumbled upon this paper about <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565">“I've Got Nothing to Hide” and Other Misunderstandings of Privacy</a> by Daniel J. Solove
 
-Read it yourself, below you can find my notes about it.
+Do yourself a favor and <a target="_blank" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565">read it here</a>
 
 ---
 
