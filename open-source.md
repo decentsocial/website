@@ -19,7 +19,9 @@ layout: layout.njk
           You can decide to self-host it on your own machine and maintaing it by yourself.
         </p>
         <p class="lead">
-          You can also support us <a href="https://github.com/sponsors/decentsocial/" target="_blank">on GitHub sponsors!</a>
+          Support us <a href="https://github.com/sponsors/decentsocial/" target="_blank">on GitHub sponsors!</a>
+          <br>
+          <iframe src="https://github.com/sponsors/decentsocial/card" title="Sponsor decentsocial" height="225" width="600" style="border: 0;" class="my-3"></iframe>
           <br>
           We are proudly sponsoring <a href="https://github.com/sponsors/zedeus" target="_blank">the nitter project</a> with a 5$ monthly donation&nbsp;🙌
         </p>
