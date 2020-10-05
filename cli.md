@@ -4,8 +4,8 @@ layout: layout.njk
 ---
 
 {% block content %}
-<section class="container">
-  <div class="row mt-5 mb-5">
+<section class="container mt-5">
+  <div class="row mb-5">
     <div class="col-lg-12 mx-auto">
       <h1 class="title display-3">decent.social cli</h1>
       <p class="">Enjoy your private timeline, <b>in your terminal</b></p>

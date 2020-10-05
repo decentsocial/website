@@ -4,7 +4,7 @@ layout: layout.njk
 ---
 
 {% block content %}
-<section class="container">
+<section class="container mt-5">
   <h1 class="title">Decent is Free & Open-source software</h1>
   <div class="row">
     <div class="col-md-8 my-5 py-5">

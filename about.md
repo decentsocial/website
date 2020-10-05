@@ -4,7 +4,7 @@ layout: layout.njk
 ---
 
 {% block content %}
-<section class="container">
+<section class="container mt-5">
   <h1 class="title display-3">About Decent</h1>
   <div class="row mt-5 mb-5">
     <div class="col-lg-12 mx-auto">
