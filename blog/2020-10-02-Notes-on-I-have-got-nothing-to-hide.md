@@ -55,7 +55,7 @@ Profile me, analyze me, I've done nothing bad or illegal, do you?
 
 Monitor my phone calls, read what I say about my noisy neighbour, I've got nothing to hide
 
-If you have something to hide, you should be found, captured and sentenced [^14]
+If you have something to hide, you should be found, arrested and sentenced [^14]
 
 Responses:
 
@@ -73,13 +73,13 @@ Stalin would have loved this [^20]
 
 Everybody has something to hide from somebody. you just need to look hard enough. [^22]
 
-By stating "I've got nothing to hide" you're totally OK with the government infringing rights of millions of people [^21]
+By stating: "I've got nothing to hide" you're totally OK with the government infringing rights of millions of people [^21]
 
 Which means also that you don't really care what happens, as long as it doesn't happen to you. [^23]
 
-For most people the trade-off of privacy vs security makes totally sense. "If by collecting information about people, our nation is made secure and ready for terrorist attacks, it's totally fine by me" [^24]
+For most people the trade-off of privacy vs security makes total sense. "If by collecting information about people, our nation is made secure and ready for terrorist attacks, it's totally fine by me" [^24]
 
-This is why the arguments against "nothing to hide" is very difficult to get across, since the protection against terrorist attacks outweighs whatever minimal or moderate privacy interests someone might have. [^25]
+This is why the argument against "nothing to hide" is very difficult to get across, since the protection against terrorist attacks outweighs whatever basic or moderate privacy interests someone might have. [^25]
 
 
 # Conceptualizing privacy
@@ -105,11 +105,11 @@ Read about [Taxonomy of Privacy](https://teachprivacy.com/taxonomy-of-privacy/) 
 
 The problem is the underlying assumption that privacy is about hiding bad things. [^32]
 
-The nothing to hide argument comes from a wrong “premise that privacy is about hiding a wrong.” [^33]
+The "Nothing to hide" argument comes from a wrong “premise that privacy is about hiding a wrong.” [^33]
 
 It's also not about "secrecy". [^34]
 
-And neither about data you give to third-parties (bank records, telephone numbers, messages, etc). [^35]
+And neither is it about data you give to third-parties (bank records, telephone numbers, messages, etc). [^35]
 
 Because third party records result in the government’s ability to access an extensive amount of personal information with minimal limitation or oversight. [^36]
 
@@ -119,9 +119,9 @@ This misuse and collection of information can and will harm your right to free-s
 
 Refer to [socialcooling.com](https://www.socialcooling.com) for more info.
 
-Another problem is "secondary use": the use of data for a unrelated use, ignoring the real reason why data was collected. this of course without the person's consent. [^38]
+Another problem is "secondary use": the use of data for an unrelated use, ignoring the real reason why data was collected. this of course without the person's consent. [^38]
 
-This is of course a very "modern" problem, never before in history of humanity we had so much information available (digitally or physically).
+This is of course a very "modern" problem, never before in history of humanity had we had so much information available (digitally or physically).
 
 **The problem with the nothing to hide argument is that it focuses on just one or two particular kinds of privacy problems (the disclosure of personal information or surveillance) and not others.** [^39]
 
@@ -137,7 +137,7 @@ It represents a singular and narrow way of conceiving of privacy, and it wins by
 
 This is definitely the most interesting paper I've ever read about Privacy.
 
-Read it here and do yourself a favor: [“I've Got Nothing to Hide” and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+Do yourself a favor and read it here: [“I've Got Nothing to Hide” and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565).
 
 <h5>Check out <a href="/">Decent.Social</a>, an ad-free & privacy-friendly Twitter reader!</h5>
 
