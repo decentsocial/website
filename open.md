@@ -5,7 +5,7 @@ layout: layout.njk
 
 {% block content %}
 <section class="container">
-  <h1 class="title">Decent Open Stats</h1>
+  <h1 class="title display-3">Decent Open Stats</h1>
   <p class="lead">
     Below I summarized all numbers around building Decent
   </p>
