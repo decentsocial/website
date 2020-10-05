@@ -25,9 +25,11 @@ layout: layout.njk
   {% include 'faq.html' %}
 </section>
 
+<!--
 <section class="container mt-5">
   {% include 'testimonials.html' %}
 </section>
+-->
 
 <section class="mt-5">
   <br>
