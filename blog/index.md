@@ -7,7 +7,7 @@ layout: layout.njk
 <div class="container">
   <div class="row">
     <div class="col-xl-10 col-sm-12 mx-auto">
-      <h1 class="title display-5">The Decent Blog</h1>
+      <h1 class="title display-3">The Decent Blog</h1>
       {% for post in collections.post | reverse %}
         <h3 class="title mt-5"><a href="{{post.url}}">{{post.data.title}}</a></h3>
         <p>Written on <time class="font-weight-bold">{{post.data.date | isoday}}</time></p>
