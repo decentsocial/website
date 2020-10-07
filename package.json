@@ -3,7 +3,7 @@
     "name": "decent-social-website",
     "version": "0.0.0",
     "scripts": {
-        "start": "gulp watch",
+        "start": "http-server _site",
         "build": "npm run build:css; npm run build:site",
         "build:css": "gulp build",
         "build:site": "devblog"
@@ -32,6 +32,7 @@
         "gulp-clean-css": "4.3.0",
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "2.0.0",
-        "gulp-sass": "4.1.0"
+        "gulp-sass": "4.1.0",
+        "http-server": "^0.12.3"
     }
 }

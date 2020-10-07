@@ -30,3 +30,15 @@ this runs `devblog build`
 ```
 npm run build:site
 ```
+
+# development
+
+serve `_site` on `http://localhost:8080`
+
+```
+npm start
+
+# or 
+
+npx http-server _site
+```
