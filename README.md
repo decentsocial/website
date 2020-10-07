@@ -2,6 +2,7 @@
 
 Visit [decent.social](https://decent.social/)
 
+[![decent](https://raw.githubusercontent.com/decentsocial/website/master/.github/decent.png)](https://decent.social)
 # installation
 
 ```
