@@ -4,7 +4,8 @@
     "version": "0.0.0",
     "scripts": {
         "start": "gulp watch",
-        "build": "gulp build",
+        "build": "npm run build:css; npm run build:site",
+        "build:css": "gulp build",
         "build:site": "devblog"
     },
     "description": "Decent is an ad-free, privacy-first Twitter reading experience",
@@ -14,7 +15,7 @@
         "url": "https://github.com/decentsocial/website/issues",
         "email": "hey@cri.dev"
     },
-    "license": "MIT",
+    "license": "AGPL",
     "author": "Christian Fei",
     "contributors": [
         "Christian Fei (https://cri.dev/)"
