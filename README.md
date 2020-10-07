@@ -44,3 +44,7 @@ npm start
 
 npx http-server _site
 ```
+
+# deploy
+
+see `DEPLOY.md`
