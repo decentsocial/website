@@ -15,7 +15,7 @@ layout: layout.njk
       The source-code is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank">Affero General Public Licene 3.0</a>, as <a href="https://github.com/zedeus/nitter" target="_blank">Nitter</a>
       </p>
       <p class="lead">
-        You can decide to self-host it on your own machine and maintaing it by yourself.
+        You can decide to self-host it on your own machine and maintaining it by yourself.
       </p>
       <p class="lead">
         Support us <a href="https://github.com/sponsors/decentsocial/" target="_blank">on GitHub sponsors!</a>
