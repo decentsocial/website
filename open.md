@@ -40,6 +40,8 @@ layout: layout.njk
             <br> design work for logo on <a target="_blank" href="http://www.fiverr.com/s2/03eeff2c1d">Fiverr</a>
           </p>
         </div>
+      </div>
+      <div class="row">
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3 profit">
