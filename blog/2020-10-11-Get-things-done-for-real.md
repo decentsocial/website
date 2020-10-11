@@ -59,6 +59,8 @@ On a sheet of paper I can clearly scan and evaluate my next most important step 
 
 Most important in terms of priority, which is up to you.
 
+You have a perfect overview of the week.
+
 ## Analogue
 
 Since it isn't a Trello board or similar, on which you attach files, comment, tag and much more.
@@ -66,6 +68,8 @@ Since it isn't a Trello board or similar, on which you attach files, comment, ta
 Of course it makes even more sense if you're in a (distributed) team, for collaboration at work.
 
 But for personal use, perfectly for side-projects, I find it's pretty neat and functional.
+
+You can also use it as a weekly journal for your project.
 
 ## Limited space
 
