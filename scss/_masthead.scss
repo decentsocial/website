@@ -1,7 +1,5 @@
 header.masthead {
   position: relative;
-  // padding-top: 8rem;
-  // padding-bottom: 8rem;
   .overlay {
     position: absolute;
     height: 100%;
@@ -11,7 +9,7 @@ header.masthead {
     opacity: 0.3;
   }
   h1 {
-    font-size: 3.5rem;
+    font-size: 3.0rem;
   }
   @media (max-width: 768px) {
     h1 {
