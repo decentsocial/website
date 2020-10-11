@@ -114,16 +114,4 @@ npm i -g decent-social-cli
     </div>
   </div>
 </section>
-
-<section class="text-center mt-5 py-5">
-  <div class="container">
-    <div class="row mt-5">
-    <div class="col-lg-12 mx-auto mb-5 text-center">
-      <h1>Coming soon</h1>
-      {% include 'tweets.html' %}
-    </div>
-  </div>
-</section>
-
-
 {% endblock %}
