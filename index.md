@@ -36,52 +36,7 @@ layout: layout.njk
 -->
 
 <section class="mt-5">
-  <br>
-  <br>
-  <div class="container">
-    <div class="row mt-5">
-      <div class="col-md-6">
-        <h1 class="title">Future plans</h1>
-        <ul class="list-group list-group-flush mt-3 py-3">
-          <li class="list-group-item py-3">
-            Reply to a tweet directly in Decent
-          </li>
-          <li class="list-group-item py-3">
-            Timeline settings and customizations
-          </li>
-          <li class="list-group-item py-3">
-            Login via Twitter to fetch the accounts you follow
-          </li>
-          <li class="list-group-item py-3">
-            Simplified self-hosting
-          </li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <h1 class="title">Useful resources</h1>
-        <ul class="list-group list-group-flush mt-3 py-3">
-          <a href="/blog/" class="list-group-item list-group-item-action py-3">
-            Blog
-          </a>
-          <a href="/blog/2020-10-02-Notes-on-I-have-got-nothing-to-hide/" class="list-group-item list-group-item-action py-3">
-            Notes on “I've got nothing to hide”
-          </a>
-          <a href="/cli/" class="list-group-item list-group-item-action py-3">
-            Command Line Interface
-          </a>
-          <a href="/open-source/" class="list-group-item list-group-item-action py-3">
-            Free & Open-Source
-          </a>
-          <a target="_blank" href="https://plausible.io/decent.social" class="list-group-item list-group-item-action py-3">
-            Plausible Analytics
-          </a>
-          <a target="_blank" href="https://www.indiehackers.com/product/decent-social" class="list-group-item list-group-item-action py-3">
-            Progress on IndieHackers.com
-          </a>
-        </ul>
-      </div>
-    </div>
-  </div>
+  {% include 'next.html' %}
 </section>
 
 <section id="cta-end" class="container text-center mt-5 py-5">
