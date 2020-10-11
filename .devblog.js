@@ -53,5 +53,15 @@ module.exports = {
         return date
       }
     }
+  }, {
+    name: 'first4',
+    filter: (items) => {
+      return items.filter((_, i) => i < 4)
+    }
+  }, {
+    name: 'next4',
+    filter: (items) => {
+      return items.filter((_, i) => i < 8 && i >= 4)
+    }
   }]
 }
