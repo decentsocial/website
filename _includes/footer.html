@@ -9,14 +9,14 @@
           <h5 class="title">From The Decent Blog</h5>
           <div class="row">
             <div class="col-md-6">
-              {% for post in collections.post | reverse | first4 %}
+              {% for post in collections.post | reverse | first5 %}
               <div>
                 <a href="{{post.url}}">{{post.data.title}}</a>
               </div>
               {% endfor%}  
             </div>
             <div class="col-md-6">              
-              {% for post in collections.post | reverse | next4 %}
+              {% for post in collections.post | reverse | next5 %}
               <div>
                 <a href="{{post.url}}">{{post.data.title}}</a>
               </div>

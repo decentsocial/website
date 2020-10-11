@@ -54,14 +54,14 @@ module.exports = {
       }
     }
   }, {
-    name: 'first4',
+    name: 'first5',
     filter: (items) => {
-      return items.filter((_, i) => i < 4)
+      return items.filter((_, i) => i < 5)
     }
   }, {
-    name: 'next4',
+    name: 'next5',
     filter: (items) => {
-      return items.filter((_, i) => i < 8 && i >= 4)
+      return items.filter((_, i) => i < 10 && i >= 5)
     }
   }]
 }
