@@ -51,6 +51,8 @@ Here are two examples for the Plannings of the weeks 40 and 41
 
 Put down whatever crosses your mind, **at all times during the day**, in the categories you have defined.
 
+The idea is to have this weekly planning at your hands whenever you need it.
+
 ## Visibility
 
 On a sheet of paper I can clearly scan and evaluate my next most important step to take.
