@@ -16,6 +16,8 @@ From the perspective of building [decent.social](https://decent.social).
 
 Showing you the process of how I got [decent.social](https://decent.social) from **landing page**, **to 36 subscribers mailing list** to **MVP** ready. *In two weeks*
 
+![gtd-stats](/img/blog/gtd-stats.png)
+
 ---
 
 I start with a blank piece of paper.
