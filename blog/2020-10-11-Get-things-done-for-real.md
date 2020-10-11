@@ -8,6 +8,7 @@ tags:
   - gtd
   - getthingsdone
   - lean
+hackernews: https://news.ycombinator.com/item?id=24748067
 ---
 
 Read about how I personally get things done.
