@@ -32,8 +32,4 @@ layout: layout.njk
 <section class="mt-5">
   {% include 'next.html' %}
 </section>
-
-<section class="mt-5" style="background-color: black!important; color: white!important;">
-  {% include 'still-here.html' %}
-</section>
 {% endblock %}
