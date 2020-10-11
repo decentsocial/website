@@ -209,3 +209,12 @@ article h5 {
 .profit {
   border-bottom: 3px solid #75ff7591;
 }
+
+html body {
+  background: #fff;
+}
+
+.tweets {
+  background: white;
+  box-shadow: 0px 5px 10px rgba(18, 9, 65, 0.05);
+}
