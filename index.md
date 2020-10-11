@@ -39,8 +39,8 @@ layout: layout.njk
   {% include 'next.html' %}
 </section>
 
-<section id="cta-end" class="container text-center mt-5 py-5">
-  {% include 'cta.html' %}
+<section class="mt-5" style="background-color: black!important; color: white!important;">
+  {% include 'still-here.html' %}
 </section>
 
 {% endblock %}
