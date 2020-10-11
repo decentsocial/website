@@ -93,6 +93,6 @@ This to save precious space on the sheet of paper.
 
 This is how I planned the past two weeks for the product development of [decent.social](https://decent.social)
 
-Let me know what you think [on Twitter](https://twitter.com/christian_fei!
+Let me know what you think [on Twitter](https://twitter.com/christian_fei)!
 
 > Try out [app.decent.social](https://app.decent.social) for free!
