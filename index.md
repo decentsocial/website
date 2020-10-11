@@ -9,9 +9,13 @@ layout: layout.njk
   {% include 'masthead.html' %}
 </header>
 
+<hr class="w-60 mx-auto">
+
 <section id="benefits" class="features-icons my-5">
   {% include 'benefits.html' %}
 </section>
+
+<hr class="w-60 mx-auto">
 
 <section class="showcase py-5 mt-5">
   {% include 'showcase.html' %}
