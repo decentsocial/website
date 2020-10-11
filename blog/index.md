@@ -6,7 +6,7 @@ layout: layout.njk
 {% block content %}
 <div class="container mt-5">
   <div class="row">
-    <div class="col-xl-10 col-sm-12 mx-auto">
+    <div class="col-xl-12 col-sm-12 mx-auto">
       <h1 class="title display-3">The Decent Blog</h1>
       <div class="row">
       {% for post in collections.post | reverse %}
