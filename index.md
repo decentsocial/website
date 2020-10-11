@@ -29,12 +29,6 @@ layout: layout.njk
   {% include 'faq.html' %}
 </section>
 
-<!--
-<section class="container mt-5">
-  {% include 'testimonials.html' %}
-</section>
--->
-
 <section class="mt-5">
   {% include 'next.html' %}
 </section>
@@ -42,5 +36,4 @@ layout: layout.njk
 <section class="mt-5" style="background-color: black!important; color: white!important;">
   {% include 'still-here.html' %}
 </section>
-
 {% endblock %}
