@@ -54,6 +54,5 @@ layout: layout.njk
       <img class="img-fluid" lazy="/img/open-source.svg" />
     </div>
   </div>
-  {% include 'cta.html' %}
 </section>
 {% endblock %}

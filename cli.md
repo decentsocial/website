@@ -105,13 +105,4 @@ npm i -g decent-social-cli
   </div>
 </section>
 
-<section id="cta" class="text-center mt-5 py-5">
-  <div class="container">
-    <div class="row mt-5 mb-5">
-      <div class="col-lg-12 mx-auto">
-        {% include 'cta.html' %}
-      </div>
-    </div>
-  </div>
-</section>
 {% endblock %}

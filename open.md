@@ -99,6 +99,5 @@ layout: layout.njk
       </div>
     </div>
   </div>
-  {% include 'cta.html' %}
 </section>
 {% endblock %}

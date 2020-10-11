@@ -19,8 +19,5 @@ layout: layout.njk
     </div>
   </div>
 </div>
-<div class="container py-5">
-  {% include 'cta.html' %}
-</div>
 
 {% endblock %}
