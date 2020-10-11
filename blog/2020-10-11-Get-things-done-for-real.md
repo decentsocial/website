@@ -26,7 +26,7 @@ Fold it in half. You have two columns.
 
 Divide these two columns further, by category / topic.
 
-The categories I found useful for [decent.social](https://decent.social) where:
+The categories I found useful for [decent.social](https://decent.social) were:
 
 - marketing
 - content marketing
