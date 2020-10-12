@@ -44,7 +44,7 @@ That if rendered as plain text, of course are not clickable.
 
 Searching on NPM I found this useful little package called [`react-linkify`](https://github.com/tasti/react-linkify).
 
-It does example what I need.
+It does exactly what I need.
 
 It receive text as an input, and renders it with hyperlinks. It "even" shortens them by putting an ellipsis in links.
 
