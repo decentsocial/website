@@ -8,6 +8,7 @@ tags:
   - preact
   - react
   - javascript
+hackernews: https://news.ycombinator.com/item?id=24756885
 ---
 
 <video class="img-fluid" loop autoplay src="/video/app.decent.social-performance.mov"></video>
