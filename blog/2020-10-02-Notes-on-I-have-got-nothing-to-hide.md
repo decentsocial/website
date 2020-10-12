@@ -134,6 +134,8 @@ It represents a singular and narrow way of conceiving of privacy, and it wins by
 
 # Final words
 
+> “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.” ― Edward Snowden
+
 This is definitely the most interesting paper I've ever read about Privacy.
 
 Do yourself a favor and read it here: [“I've Got Nothing to Hide” and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565).
