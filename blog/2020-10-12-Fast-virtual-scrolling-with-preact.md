@@ -93,6 +93,6 @@ Check it out by yourself on [app.decent.social](https://app.decent.social)
 
 Yes!
 
-If you're using the preact-cli, or configured your bundler accordingly, you have support for `preact/compat` built it.
+If you're using the preact-cli, or configured your bundler accordingly, you have support for `preact/compat` built in.
 
 Which makes this a performance improvement without heavy shimming or other fluff.
