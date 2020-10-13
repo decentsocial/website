@@ -92,7 +92,7 @@ layout: layout.njk
         <div class="col-sm-3 p-3">
           <p class="lead">
             <h1 class="title display-3">
-              9%
+              4%
             </h1> <a target="_blank" href="https://plausible.io/decent.social?goal=Visit+%2Fthanks-for-subscribing%2F&period=30d">Conversion Rate</a> for Signups
           </p>
         </div>
