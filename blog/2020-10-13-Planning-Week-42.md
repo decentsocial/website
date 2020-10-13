@@ -14,6 +14,8 @@ This is what I planned (so far) for this week
 
 ![planning week 42](/img/blog/planning-week-42.jpg)
 
+---
+
 ## Content Marketing
 
 - blog posts about experience with preact
