@@ -11,7 +11,7 @@ layout: layout.njk
       <p class="">Enjoy your private timeline, <b>in your terminal</b></p>
     </div>
     <div class="col-lg-12 mx-auto">
-      <video class="img-fluid" style="max-width: 100%" autoplay loop src="/img/decent.social.cli.mp4"></video>
+      <video class="img-fluid" style="max-width: 100%" loop src="/img/decent.social.cli.mp4"></video>
     </div>
     <div class="col-lg-12 mx-auto mt-5">
       <div class="mt-5">
@@ -100,7 +100,7 @@ npm i -g decent-social-cli
       </div>
     </div>
     <div class="col-lg-12 mx-auto text-center mt-5">
-      <video class="img-fluid" style="max-width: 100%" autoplay loop src="/img/decent.social.cli.mp4"></video>
+      <video class="img-fluid" style="max-width: 100%" loop src="/img/decent.social.cli.mp4"></video>
     </div>
   </div>
 </section>
