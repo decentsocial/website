@@ -1,6 +1,6 @@
 ---
 title: "Read Twitter privately with Nitter RSS feeds"
-date: 2020-10-12
+date: 2020-10-16
 layout: post.njk
 tags:
   - post
