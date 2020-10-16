@@ -73,3 +73,5 @@ Finally, this is how your Twitter timeline could look like:
 And you still have the possibility to focus on a single user and just read their tweets:
 
 ![nitter-rss-reader-single](/img/blog/nitter-rss-reader-single.png)
+
+PS: I am working on an alternative, privacy-friendly Twitter reading experience 👉 [app.decent.social](https://app.decent.social)
