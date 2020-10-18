@@ -5,9 +5,7 @@ layout: post.njk
 tags:
   - post
   - featured
-  - nitter
   - privacy
-  - rss
 ---
 
 My notes about the Ted X talk by Gleen Greenwald at Ted X Global 2014.

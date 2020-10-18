@@ -5,9 +5,7 @@ layout: post.njk
 tags:
   - post
   - featured
-  - nitter
   - privacy
-  - rss
 ---
 
 I'm going to outline how you can read Twitter privately, by using a RSS feed reader and Nitter RSS feeds
