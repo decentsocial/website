@@ -17,6 +17,8 @@ It allows you to create your private Twitter timeline, without advertisement, ta
 
 Decent gives you the opportunity to escape tracking and analysis of your interests, for a more private Twitter reading experience.
 
+---
+
 ## Simple, private timeline
 
 Instead of presenting you a bloated Twitter timeline filled with advertisiment, "Tweets you might like" and other "optimiziations", Decent tries to respect your attention and privacy.
