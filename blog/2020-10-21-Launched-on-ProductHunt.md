@@ -1,6 +1,6 @@
 ---
 title: "Launched on ProductHunt!"
-date: 2020-10-20
+date: 2020-10-21
 layout: post.njk
 tags:
   - post

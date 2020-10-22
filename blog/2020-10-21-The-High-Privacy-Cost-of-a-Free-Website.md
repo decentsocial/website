@@ -1,6 +1,6 @@
 ---
 title: "The High Privacy Cost of a “Free” Website"
-date: 2020-10-20
+date: 2020-10-21
 layout: post.njk
 tags:
   - post
