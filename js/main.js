@@ -28,6 +28,7 @@ function main () {
     window.fetch(`https://app.decent.social/demo/timeline?username=${username}`)
       .then(res => res.json())
       .then(json => {
+        window.plausible && window.plausible('used-demo')
         $demoTimeline.style.opacity = 1
         $demoTimeline.innerHTML = `
         <ul class="list-group list-group-flush ">
