@@ -24,10 +24,11 @@ function main () {
     console.log('submit form')
     const username = $username.value
     console.log(username)
+    $demoTimeline.style.opacity = 0.3
     window.fetch(`https://app.decent.social/demo/timeline?username=${username}`)
       .then(res => res.json())
       .then(json => {
-        console.log('json', json)
+        $demoTimeline.style.opacity = 1
         $demoTimeline.innerHTML = `
         <ul class="list-group list-group-flush ">
         ${json.map(t => `
