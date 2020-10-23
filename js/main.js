@@ -22,6 +22,7 @@ window.loadDemo = function (e) {
   const $username = document.querySelector('#username')
   const username = $username.value
   console.log(username)
+  if (!username) return false
   $demoTimeline.style.opacity = 0.3
   window.fetch(`https://app.decent.social/demo/timeline?username=${username}`)
     .then(res => res.json())
