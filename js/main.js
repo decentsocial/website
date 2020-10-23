@@ -49,6 +49,7 @@ function main () {
         </ul>
         `
       })
+    return false
   })
 }
 
