@@ -13,6 +13,41 @@ function main () {
   })
 
   try { lazyLoad('[lazy]') } catch (err) { console.error(err.message, err) }
+
+  const $demo = document.querySelector('.demo')
+  const $demoTimeline = document.querySelector('.demo-timeline')
+  const $username = document.querySelector('#username')
+
+  if (!$demo) return
+  $demo.addEventListener('submit', (e) => {
+    e.preventDefault()
+    console.log('submit form')
+    const username = $username.value
+    console.log(username)
+    window.fetch(`https://app.decent.social/demo/timeline?username=${username}`)
+      .then(res => res.json())
+      .then(json => {
+        console.log('json', json)
+        $demoTimeline.innerHTML = `
+        <ul class="list-group list-group-flush ">
+        ${json.map(t => `
+        <a target="_blank" href="${t.link}" class="list-group-item list-group-item-action bg-white">
+          <div class="d-flex w-100 py-3 justify-content-between">
+            <div>
+              <h5 class="mt-0">
+                <div style="display: inline-block; border-radius: 50%; height: 2em; width: 2em; vertical-align: middle; background-size: 100%; background-image: url(${t.authorAvatar})"></div>
+                &nbsp;&nbsp;&nbsp;&nbsp;${t.author}
+              </h5>
+            </div>
+            <small class="text-muted">${new Date(t.date).toISOString().substring(0, 10)}</small>
+          </div>
+          <p class="mb-1 text-left py-2" style="overflow: hidden;">${t.text}</p>
+        </a>              
+        `).join('')}
+        </ul>
+        `
+      })
+  })
 }
 
 // function trackEvent (name, once = true) {
